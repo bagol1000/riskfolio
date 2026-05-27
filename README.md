@@ -5,20 +5,6 @@ Projekt zakłada stworzenie aplikacji desktopowej lub webowej o nazwie RiskFolio
 
 ---
 
-### Z czego składa się dokumentacja?
-
-1. Strona tytułowa (*to oficjalny dokument, powinien dobrze wyglądać*)
-2. Opis tematu, co, po co, dla kogo, cel biznesowy
-3. Założenia projektowe, funkcjonalne, niefunkcjonalne
-4. Schemat systemu jako całości – opis
-5. Wykorzystane technologie, biblioteki
-6. Opis implementacji (*krótko, ale coś by się przydało*)
-7. Instrukcja wdrożeniowa (*Co jest potrzebne aby uruchomić aplikację + Instrukcja jak to zrobić*)
-8. Instrukcja użytkownika
-9. Podsumowanie i wnioski (*Odnośnie pracy nad projektem + Odnośnie działania*)
-
----
-
 #### Plany na kolejne wersje
 
 1. W DataService.java dodać obsługę błędów połączeń sieciowych.
