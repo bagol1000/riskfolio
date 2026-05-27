@@ -1,0 +1,2371 @@
+Apple Inc.;AAPL.US
+Microsoft Corp.;MSFT.US
+Amazon.com Inc.;AMZN.US
+Tesla Inc.;TSLA.US
+Alphabet Inc. (Google) A;GOOGL.US
+NVIDIA Corp.;NVDA.US
+Meta Platforms (Facebook);META.US
+Berkshire Hathaway B;BRK-B.US
+JPMorgan Chase;JPM.US
+Johnson & Johnson;JNJ.US
+Visa Inc.;V.US
+Exxon Mobil;XOM.US
+Walmart Inc.;WMT.US
+Mastercard Inc.;MA.US
+Procter & Gamble;PG.US
+Home Depot;HD.US
+Chevron Corp.;CVX.US
+AbbVie Inc.;ABBV.US
+Pfizer Inc.;PFE.US
+Coca-Cola Co.;KO.US
+PepsiCo Inc.;PEP.US
+Bank of America;BAC.US
+Costco Wholesale;COST.US
+McDonald's Corp.;MCD.US
+Disney (Walt) Co.;DIS.US
+Netflix Inc.;NFLX.US
+WIG20 Index;WIG20
+WIG Index;WIG
+mWIG40 Index;MWIG40
+sWIG80 Index;SWIG80
+CD Projekt;CDR
+PKN Orlen;PKN
+PKO BP;PKO
+KGHM Polska Miedz;KGH
+PZU SA;PZU
+Dino Polska;DNP
+Allegro;ALE
+LPP SA;LPP
+Bank Pekao;PEO
+Santander Bank Polska;SPL
+PGE Polish Energy Group;PGE
+Orange Polska;OPL
+Cyfrowy Polsat;CPS
+Tauron Polish Energy;TPE
+JSW;JSW
+Kety;KTY
+KRUK;KRU
+Asseco Poland;ACP
+Alior Bank;ALR
+CCC SA;CCC
+XTB Brokerage House;XTB
+Gold (Spot);XAUUSD
+Silver (Spot);XAGUSD
+Platinum (Spot);XPTUSD
+Palladium (Spot);XPDUSD
+Copper (Futures);HG.F
+Crude Oil (Futures);CL.F
+Brent Oil (Futures);CB.F
+Natural Gas (Futures);NG.F
+S&P 500 Index;^SPX
+Nasdaq 100 Index;^NDX
+Dow Jones Industrial;^DJI
+DAX Index (Germany);^DAX
+CAC 40 (France);^CAC
+FTSE 100 (UK);^FTM
+Nikkei 225 (Japan);^NKX
+Hang Seng (Hong Kong);^HSI
+Shanghai Composite (China);^SHC
+Russell 2000 (USA Small Cap);^RUT
+EUR/PLN;EURPLN
+USD/PLN;USDPLN
+CHF/PLN;CHFPLN
+GBP/PLN;GBPPLN
+EUR/USD;EURUSD
+GBP/USD;GBPUSD
+USD/JPY;USDJPY
+USD/CHF;USDCHF
+AUD/USD;AUDUSD
+EUR/CHF;EURCHF
+Dollar Index;^INY
+Gasoline;RB.F
+Heating Oil;HO.F
+Corn;ZC.F
+Wheat;ZW.F
+Soybeans;ZS.F
+Sugar;SB.F
+Coffee;KC.F
+Cocoa;CC.F
+Cotton;CT.F
+Bitcoin;BTC.V
+Ethereum;ETH.V
+Litecoin;LTC.V
+Ripple;XRP.V
+Dash;DASH.V
+Bitcoin Cash;BCH.V
+Dogecoin;DOGE.V
+LIBOR USD 3M;US3M.B
+WIBOR 3M;PLOPLN3M.M
+SPDR S&P 500 ETF;SPY.US
+Invesco QQQ (Nasdaq);QQQ.US
+Vanguard Total Stock;VTI.US
+iShares Russell 2000;IWM.US
+GLD Gold Trust;GLD.US
+Silver Trust;SLV.US
+VanEck Semiconductor;SMH.US
+ARK Innovation;ARKK.US
+Energy Select Sector;XLE.US
+Financial Select Sector;XLF.US
+Austria 10-Year Government Bond Yield;10YATY.B
+Australia 10-Year Government Bond Yield;10YAUY.B
+Belgium 10-Year Government Bond Yield;10YBEY.B
+Canada 10-Year Government Bond Yield;10YCAY.B
+Chile 10-Year Government Bond Yield;10YCLY.B
+China 10-Year Government Bond Yield;10YCNY.B
+Czech 10-Year Government Bond Yield;10YCZY.B
+Egypt 10-Year Government Bond Yield;10YEGY.B
+France 10-Year Government Bond Yield;10YFRY.B
+Greece 10-Year Government Bond Yield;10YGRY.B
+Hong Kong 10-Year Government Bond Yield;10YHKY.B
+Israel 10-Year Government Bond Yield;10YILY.B
+India 10-Year Government Bond Yield;10YINY.B
+Iceland 10-Year Government Bond Yield;10YISY.B
+Japan 10-Year Government Bond Yield;10YJPY.B
+Kenya 10-Year Government Bond Yield;10YKEY.B
+South Korea 10-Year Government Bond Yield;10YKRY.B
+Morocco 10-Year Government Bond Yield;10YMAY.B
+Mauritius 10-Year Government Bond Yield;10YMUY.B
+Mexico 10-Year Government Bond Yield;10YMXY.B
+Malaysia 10-Year Government Bond Yield;10YMYY.B
+Namibia 10-Year Government Bond Yield;10YNAY.B
+Philippines 10-Year Government Bond Yield;10YPHY.B
+Pakistan 10-Year Government Bond Yield;10YPKY.B
+Romania 10-Year Government Bond Yield;10YROY.B
+Singapore 10-Year Government Bond Yield;10YSGY.B
+Turkey 10-Year Government Bond Yield;10YTRY.B
+Taiwan 10-Year Government Bond Yield;10YTWY.B
+Uganda 10-Year Government Bond Yield;10YUGY.B
+U.K. 10-Year Government Bond Yield;10YUKY.B
+U.S. 10-Year Government Bond Yield;10YUSY.B
+Vietnam 10-Year Government Bond Yield;10YVNY.B
+South Africa 10-Year Government Bond Yield;10YZAY.B
+Zambia 10-Year Government Bond Yield;10YZMY.B
+Germany 15-Year Government Bond Yield;15YDEY.B
+U.S. 1-Month Government Bond Yield;1MUSY.B
+Australia 1-Year Government Bond Yield;1YAUY.B
+Canada 1-Year Government Bond Yield;1YCAY.B
+China 1-Year Government Bond Yield;1YCNY.B
+India 1-Year Government Bond Yield;1YINY.B
+Japan 1-Year Government Bond Yield;1YJPY.B
+U.K. 1-Year Government Bond Yield;1YUKY.B
+U.S. 1-Year Government Bond Yield;1YUSY.B
+Australia 20-Year Government Bond Yield;20YAUY.B
+Canada 20-Year Government Bond Yield;20YCAY.B
+China 20-Year Government Bond Yield;20YCNY.B
+France 20-Year Government Bond Yield;20YFRY.B
+Greece 20-Year Government Bond Yield;20YGRY.B
+Japan 20-Year Government Bond Yield;20YJPY.B
+South Korea 20-Year Government Bond Yield;20YKRY.B
+U.K. 20-Year Government Bond Yield;20YUKY.B
+U.S. 20-Year Government Bond Yield;20YUSY.B
+South Africa 20-Year Government Bond Yield;20YZAY.B
+U.S. 2-Month Government Bond Yield;2MUSY.B
+Australia 2-Year Government Bond Yield;2YAUY.B
+Canada 2-Year Government Bond Yield;2YCAY.B
+China 2-Year Government Bond Yield;2YCNY.B
+Spain 2-Year Government Bond Yield;2YESY.B
+India 2-Year Government Bond Yield;2YINY.B
+Japan 2-Year Government Bond Yield;2YJPY.B
+South Korea 2-Year Government Bond Yield;2YKRY.B
+Portugal 2-Year Government Bond Yield;2YPTY.B
+U.K. 2-Year Government Bond Yield;2YUKY.B
+U.S. 2-Year Government Bond Yield;2YUSY.B
+Australia 30-Year Government Bond Yield;30YAUY.B
+Canada 30-Year Government Bond Yield;30YCAY.B
+China 30-Year Government Bond Yield;30YCNY.B
+France 30-Year Government Bond Yield;30YFRY.B
+India 30-Year Government Bond Yield;30YINY.B
+Japan 30-Year Government Bond Yield;30YJPY.B
+South Korea 30-Year Government Bond Yield;30YKRY.B
+U.K. 30-Year Government Bond Yield;30YUKY.B
+U.S. 30-Year Government Bond Yield;30YUSY.B
+South Africa 30-Year Government Bond Yield;30YZAY.B
+Canada 3-Month Government Bond Yield;3MCAY.B
+Greece 3-Month Government Bond Yield;3MGRY.B
+India 3-Month Government Bond Yield;3MINY.B
+Japan 3-Month Government Bond Yield;3MJPY.B
+Netherlands 3-Month Government Bond Yield;3MNLY.B
+U.S. 3-Month Government Bond Yield;3MUSY.B
+South Africa 3-Month Government Bond Yield;3MZAY.B
+Australia 3-Year Government Bond Yield;3YAUY.B
+Canada 3-Year Government Bond Yield;3YCAY.B
+China 3-Year Government Bond Yield;3YCNY.B
+France 3-Year Government Bond Yield;3YFRY.B
+India 3-Year Government Bond Yield;3YINY.B
+Japan 3-Year Government Bond Yield;3YJPY.B
+South Korea 3-Year Government Bond Yield;3YKRY.B
+U.K. 3-Year Government Bond Yield;3YUKY.B
+U.S. 3-Year Government Bond Yield;3YUSY.B
+Australia 5-Year Government Bond Yield;5YAUY.B
+Canada 5-Year Government Bond Yield;5YCAY.B
+China 5-Year Government Bond Yield;5YCNY.B
+Germany 5-Year Government Bond Yield;5YDEY.B
+India 5-Year Government Bond Yield;5YINY.B
+Japan 5-Year Government Bond Yield;5YJPY.B
+South Korea 5-Year Government Bond Yield;5YKRY.B
+U.K. 5-Year Government Bond Yield;5YUKY.B
+U.S. 5-Year Government Bond Yield;5YUSY.B
+South Africa 5-Year Government Bond Yield;5YZAY.B
+Canada 6-Month Government Bond Yield;6MCAY.B
+Greece 6-Month Government Bond Yield;6MGRY.B
+India 6-Month Government Bond Yield;6MINY.B
+Netherlands 6-Month Government Bond Yield;6MNLY.B
+U.K. 6-Month Government Bond Yield;6MUKY.B
+U.S. 6-Month Government Bond Yield;6MUSY.B
+Australia 7-Year Government Bond Yield;7YAUY.B
+Canada 7-Year Government Bond Yield;7YCAY.B
+China 7-Year Government Bond Yield;7YCNY.B
+India 7-Year Government Bond Yield;7YINY.B
+Japan 7-Year Government Bond Yield;7YJPY.B
+U.K. 7-Year Government Bond Yield;7YUKY.B
+U.S. 7-Year Government Bond Yield;7YUSY.B
+Poland 10-Year Government Bond Yield;10YPLY.B
+Brazil 10-Year Government Bond Yield;10YBRY.B
+Colombia 10-Year Government Bond Yield;10YCOY.B
+Sri Lanka 10-Year Government Bond Yield;10YLKY.B
+Sweden 10-Year Government Bond Yield;10YSEY.B
+New Zealand 10-Year Government Bond Yield;10YNZY.B
+Italy 10-Year Government Bond Yield;10YITY.B
+Cyprus 10-Year Government Bond Yield;10YCYY.B
+Denmark 10-Year Government Bond Yield;10YDKY.B
+Finland 10-Year Government Bond Yield;10YFIY.B
+Hungary 10-Year Government Bond Yield;10YHUY.B
+Ireland 10-Year Government Bond Yield;10YIEY.B
+Malta 10-Year Government Bond Yield;10YMTY.B
+Norway 10-Year Government Bond Yield;10YNOY.B
+Portugal 10-Year Government Bond Yield;10YPTY.B
+Slovenia 10-Year Government Bond Yield;10YSIY.B
+Slovakia 10-Year Government Bond Yield;10YSKY.B
+Spain 15-Year Government Bond Yield;15YESY.B
+Italy 15-Year Government Bond Yield;15YITY.B
+Canada 1-Month Government Bond Yield;1MCAY.B
+France 1-Month Government Bond Yield;1MFRY.B
+Italy 1-Month Government Bond Yield;1MITY.B
+U.K. 1-Month Government Bond Yield;1MUKY.B
+Belgium 1-Year Government Bond Yield;1YBEY.B
+Switzerland 1-Year Government Bond Yield;1YCHY.B
+Germany 1-Year Government Bond Yield;1YDEY.B
+Spain 1-Year Government Bond Yield;1YESY.B
+France 1-Year Government Bond Yield;1YFRY.B
+Ireland 1-Year Government Bond Yield;1YIEY.B
+Italy 1-Year Government Bond Yield;1YITY.B
+Netherlands 1-Year Government Bond Yield;1YNLY.B
+Norway 1-Year Government Bond Yield;1YNOY.B
+Portugal 1-Year Government Bond Yield;1YPTY.B
+Italy 20-Year Government Bond Yield;20YITY.B
+Portugal 20-Year Government Bond Yield;20YPTY.B
+Switzerland 2-Year Government Bond Yield;2YCHY.B
+Germany 2-Year Government Bond Yield;2YDEY.B
+Denmark 2-Year Government Bond Yield;2YDKY.B
+Finland 2-Year Government Bond Yield;2YFIY.B
+France 2-Year Government Bond Yield;2YFRY.B
+Italy 2-Year Government Bond Yield;2YITY.B
+Norway 2-Year Government Bond Yield;2YNOY.B
+New Zealand 2-Year Government Bond Yield;2YNZY.B
+Sweden 2-Year Government Bond Yield;2YSEY.B
+Spain 30-Year Government Bond Yield;30YESY.B
+Italy 30-Year Government Bond Yield;30YITY.B
+Portugal 30-Year Government Bond Yield;30YPTY.B
+Germany 3-Month Government Bond Yield;3MDEY.B
+Spain 3-Month Government Bond Yield;3MESY.B
+France 3-Month Government Bond Yield;3MFRY.B
+Italy 3-Month Government Bond Yield;3MITY.B
+Portugal 3-Month Government Bond Yield;3MPTY.B
+U.K. 3-Month Government Bond Yield;3MUKY.B
+Switzerland 3-Year Government Bond Yield;3YCHY.B
+Denmark 3-Year Government Bond Yield;3YDKY.B
+Spain 3-Year Government Bond Yield;3YESY.B
+France 3-Year Government Bond Yield;3YFRY.B
+Ireland 3-Year Government Bond Yield;3YIEY.B
+Italy 3-Year Government Bond Yield;3YITY.B
+Norway 3-Year Government Bond Yield;3YNOY.B
+Portugal 3-Year Government Bond Yield;3YPTY.B
+Germany 4-Year Government Bond Yield;4YDEY.B
+Denmark 5-Year Government Bond Yield;5YDKY.B
+Spain 5-Year Government Bond Yield;5YESY.B
+France 5-Year Government Bond Yield;5YFRY.B
+Ireland 5-Year Government Bond Yield;5YIEY.B
+Italy 5-Year Government Bond Yield;5YITY.B
+Norway 5-Year Government Bond Yield;5YNOY.B
+New Zealand 5-Year Government Bond Yield;5YNZY.B
+Portugal 5-Year Government Bond Yield;5YPTY.B
+Sweden 5-Year Government Bond Yield;5YSEY.B
+U.K. 5-Year Government Bond Yield;5YUKY.B
+Germany 6-Month Government Bond Yield;6MDEY.B
+Spain 6-Month Government Bond Yield;6MESY.B
+Italy 6-Month Government Bond Yield;6MITY.B
+Portugal 6-Month Government Bond Yield;6MPTY.B
+Germany 6-Year Government Bond Yield;6YDEY.B
+Spain 7-Year Government Bond Yield;7YESY.B
+France 7-Year Government Bond Yield;7YFRY.B
+Italy 7-Year Government Bond Yield;7YITY.B
+Portugal 7-Year Government Bond Yield;7YPTY.B
+Germany 8-Year Government Bond Yield;8YDEY.B
+Germany 9-Year Government Bond Yield;9YDEY.B
+full_name;symbol
+Forafric Global Plc;AFRI.US
+Forafric Global Plc;AFRIW.US
+Affirm Holdings Inc;AFRM.US
+Afya Ltd;AFYA.US
+Allied Gaming & Entertainment Inc;AGAE.US
+Agencia Comercial Spirits Ltd;AGCC.US
+Agenus Inc;AGEN.US
+Aureus Greenway Holdings Inc;AGH.US
+Agios Pharmaceuticals Inc;AGIO.US
+AGM Group Holdings Inc;AGMH.US
+AGNC Investment Corp;AGNC.US
+AGNC Investment Corp;AGNCL.US
+AGNC Investment Corp;AGNCM.US
+AGNC Investment Corp;AGNCN.US
+AGNC Investment Corp;AGNCO.US
+AGNC Investment Corp;AGNCP.US
+AGNC INVESTMENT CORP;AGNCZ.US
+Axe Compute Inc;AGPU.US
+Agroz Inc;AGRZ.US
+Agilysys Inc;AGYS.US
+AdaptHealth Corp;AHCO.US
+Akso Health Group;AHG.US
+Ambitions Enterprise Management Co LLC;AHMA.US
+Firefly Neuroscience Inc;AIFF.US
+AIFU Inc;AIFU.US
+Senmiao Technology Ltd;AIHS.US
+Robo.ai Inc;AIIO.US
+Ainos Inc;AIMD.US
+Powerfleet Inc NJ;AIOT.US
+Arteris Inc;AIP.US
+reAlpha Tech Corp;AIRE.US
+Airgain Inc;AIRG.US
+AirJoule Technologies Corp;AIRJ.US
+AirJoule Technologies Corp;AIRJW.US
+AIRO Group Holdings Inc;AIRO.US
+AirSculpt Technologies Inc;AIRS.US
+Airship AI Holdings Inc;AISP.US
+Airship AI Holdings Inc;AISPW.US
+AIxCrypto Holdings Inc;AIXC.US
+Xiao I Corp;AIXI.US
+Akamai Technologies Inc;AKAM.US
+Akanda Corp;AKAN.US
+Akebia Therapeutics Inc;AKBA.US
+Akari Therapeutics Plc;AKTX.US
+Astera Labs Inc;ALAB.US
+Alarum Technologies Ltd;ALAR.US
+Avalon GloboCare Corp;ALBT.US
+Alico Inc;ALCO.US
+Alchemy Investments Acquisition Corp 1;ALCY.US
+Alchemy Investments Acquisition Corp 1;ALCYU.US
+Alchemy Investments Acquisition Corp 1;ALCYW.US
+Aldel Financial II Inc;ALDF.US
+Aldel Financial II Inc;ALDFW.US
+Aldeyra Therapeutics Inc;ALDX.US
+Alector Inc;ALEC.US
+J P Morgan SP BV - PetroChina European Warrants Dec 2017 B;19735.HK
+UB-BOCL@EC2602A;19736.HK
+UB-SMIC@EP2609B;19737.HK
+UBCLIFE@EC2604A;19738.HK
+HUHUAHO@EC2606A;19739.HK
+MBCRAIL@EC2609A;19740.HK
+MB-SHEC@EC2602A;19741.HK
+MB-SGC @EC2602A;19743.HK
+SG-ZTE @EC2608A;19744.HK
+SG-CICC@EC2602A;19745.HK
+SG-NCI @EC2607A;19746.HK
+CITENCT@EC2603A;19747.HK
+CIXTAPI@EC2603A;19748.HK
+CI-MNIU@EC2608A;19749.HK
+BPMTUAN@EP2603A;19750.HK
+BP-HSBC@EP2607A;19751.HK
+HSXPENG@EP2607A;19752.HK
+HSHUAHO@EC2606A;19753.HK
+HSCLIFE@EC2609A;19754.HK
+JP-HSI @EC2602A;19755.HK
+JP-HSI @EC2602B;19756.HK
+SGCLIFE@EC2604A;19757.HK
+MS-HSI @EP2601A;19759.HK
+JPTENCT@EP2602C;19761.HK
+GJJDCOM@EC2602A;19762.HK
+GJJDCOM@EP2601A;19763.HK
+GJ-SMIC@EP2609A;19764.HK
+GJKUASO@EP2603A;19765.HK
+GJTENCT@EC2603B;19766.HK
+Macquarie Bank Ltd. - China Mobile European Wts Dec 2017 B;19768.HK
+MBZIJIN@EP2603A;19769.HK
+MBWEIMO@EC2605A;19770.HK
+HUHDLIH@EC2604A;19772.HK
+HU-NIO @EC2606A;19773.HK
+MB-NIO @EC2607A;19774.HK
+MBXTAPI@EC2603B;19775.HK
+MS-HSBC@EP2607A;19776.HK
+MSLENOV@EP2603A;19777.HK
+MSPOMRT@EC2601A;19778.HK
+MS-GWMC@EC2603A;19779.HK
+MSXTAPI@EC2602A;19780.HK
+JPMTUAN@EC2602A;19781.HK
+CTAMCS3@EP2602A;19782.HK
+CTCLIFE@EC2601A;19783.HK
+CIHUAHO@EC2607C;19784.HK
+CI-CMB @EC2602A;19785.HK
+HSSMORE@EC2602A;19786.HK
+HSXTAPI@EC2602B;19787.HK
+HS-CTEL@EC2602A;19788.HK
+HS-NIO @EP2609A;19789.HK
+HS-HSI @EP2602A;19790.HK
+HSHSTEC@EP2601A;19791.HK
+HSPINAN@EP2601B;19792.HK
+full_name;symbol
+Belive Holdings;BLIV.US
+Blackbaud Inc;BLKB.US
+Billiontoone Inc;BLLN.US
+Bloomin' Brands Inc;BLMN.US
+Beeline Holdings Inc;BLNE.US
+Blink Charging Co;BLNK.US
+Bluerock Acquisition Corp;BLRKU.US
+BioLine RX Ltd;BLRX.US
+Leverage Shares 2X Long BLSH Daily ETF;BLSG.US
+Belite Bio Inc;BLTE.US
+Blue Water Acquisition Corp III;BLUW.US
+Blue Water Acquisition Corp III;BLUWW.US
+Backblaze Inc;BLZE.US
+Bumble Inc;BMBL.US
+Biomea Fusion Inc;BMEA.US
+Basel Medical Group Ltd;BMGL.US
+Bluemount Holdings Ltd;BMHL.US
+Leverage Shares 2X Long BMNR Daily ETF;BMNG.US
+Beamr Imaging Ltd;BMR.US
+Biomerica Inc;BMRA.US
+Bank of Marin Bancorp;BMRC.US
+BioMarin Pharmaceutical Inc;BMRN.US
+Brand Engagement Network Inc;BNAI.US
+Brand Engagement Network Inc;BNAIW.US
+BNB Plus Corp;BNBX.US
+CEA Industries Inc;BNC.US
+CEA Industries Inc;BNCWW.US
+Vanguard Core-Plus Bond Index ETF;BNDP.US
+Bionano Genomics Inc;BNGO.US
+Bonk Inc;BNKK.US
+Burning Rock Biotech Ltd;BNR.US
+Brenmiller Energy Ltd;BNRG.US
+Benitec Biopharma Inc;BNTC.US
+BioNTech SE;BNTX.US
+Banzai International Inc;BNZI.US
+Banzai International Inc;BNZIW.US
+Beachbody Co Inc;BODI.US
+BranchOut Food Inc;BOF.US
+BOK Financial Corp;BOKF.US
+Boundless Bio Inc;BOLD.US
+Bolt Biotherapeutics Inc;BOLT.US
+Bon Natural Life Ltd;BON.US
+DMC Global Inc;BOOM.US
+BOS Better On-Line Solutions;BOSC.US
+Bank of the James Financial Group Inc;BOTJ.US
+Boxlight Corp;BOXL.US
+Popular Inc;BPOP.US
+Popular;BPOPM.US
+Princeton Bancorp Inc;BPRN.US
+Brookfield Property Partners LP;BPYPM.US
+Brookfield Property Partners LP;BPYPN.US
+Brookfield Property Partners LP;BPYPO.US
+Brookfield Property Partners LP;BPYPP.US
+Bragg Gaming Group Inc;BRAG.US
+Black Rock Coffee Bar Inc;BRCB.US
+Barfresh Food Group Inc;BRFH.US
+Bridgford Foods Corp;BRID.US
+Bruker Corp;BRKR.US
+Bruker Corporation;BRKRP.US
+Borealis Foods Inc;BRLS.US
+Brilliant Earth Group Inc;BRLT.US
+Barinthus Biotherapeutics Plc;BRNS.US
+Procap Financial Inc;BRR.US
+Columbus Circle Capital Corp I;BRRWW.US
+BioRestorative Therapies Inc;BRTX.US
+Braze Inc;BRZE.US
+BEST SPAC I Acquisition Corp;BSAAR.US
+Bogota Financial Corp;BSBK.US
+Bassett Furniture Industries Inc;BSET.US
+Bolt Projects Holdings Inc;BSLK.US
+Bolt Projects Holdings Inc;BSLKW.US
+Invesco BulletShares 2035 Municipal Bond ETF;BSMZ.US
+Sierra Bancorp;BSRR.US
+Bank7 Corp;BSVN.US
+Bentley Systems Inc;BSY.US
+Bioxcel Therapeutics Inc;BTAI.US
+BT Brands Inc;BTBD.US
+Bit Digital Inc;BTBT.US
+BTCS Inc;BTCS.US
+BTC Digital Ltd;BTCT.US
+Bitdeer Technologies Group;BTDR.US
+Bitcoin Depot Inc;BTM.US
+Biote Corp;BTMD.US
+Bitcoin Depot Inc;BTMWW.US
+Armlogi Holding Corp;BTOC.US
+Bit Origin Ltd;BTOG.US
+BTQ Technologies Corp;BTQ.US
+BrightSpring Health Services Inc;BTSG.US
+BrightSpring Health Services;BTSGU.US
+Black Titan Corp;BTTC.US
+Defiance Daily Target 2X Long B ETF;BU.US
+Webull Corp;BULL.US
+Webull Corp;BULLW.US
+GraniteShares 2x Long BULL Daily ETF;BULX.US
+First Busey Corp;BUSE.US
+First Busey Corp;BUSEP.US
+BUUU Group Ltd;BUUU.US
+BitVentures Limited;BVC.US
+BV Financial Inc;BVFL.US
+Bioventus Inc;BVS.US
+full_name;symbol
+Verisk Analytics Inc.;0LP3.UK
+Veritone, Inc.;0LP5.UK
+Viasat Inc.;0LPE.UK
+Vodafone Group Public Limited Company ADR;0LQQ.UK
+Vornado Realty Trust REIT;0LR2.UK
+Vulcan Materials Company;0LRK.UK
+Vuzix Corp;0LRL.UK
+W. P. Carey Inc. REIT;0LS8.UK
+WEC Energy Group Inc.;0LSL.UK
+Wabash National Corp;0LSO.UK
+Waste Management Inc.;0LTG.UK
+Waters Corp;0LTI.UK
+Welltower Inc. REIT;0LUS.UK
+Western Union Co.;0LVJ.UK
+Weyerhaeuser Company REIT;0LWG.UK
+Whirlpool Corp;0LWH.UK
+The Williams Companies, Inc.;0LXB.UK
+Williams-Sonoma Inc.;0LXC.UK
+WisdomTree, Inc.;0LY1.UK
+Ercros;0M0E.UK
+Tandem Diabetes Care Inc.;0M0F.UK
+Workday Inc.;0M18.UK
+XPO, Inc.;0M1O.UK
+Xcel Energy Inc.;0M1R.UK
+Xylem Inc.;0M29.UK
+Yext Inc.;0M2Q.UK
+EQUINOR;0M2Z.UK
+Yum China Holdings Inc.;0M30.UK
+Zoetis Inc.;0M3Q.UK
+Impresa SGPS S.A.;0M5U.UK
+Koninklijke Heijmans N.V. DR;0M6I.UK
+SES FDR;0M6P.UK
+Sport Lisboa e Benfica-Futebol SAD;0M7V.UK
+Glintt - Global Intelligent Technologies S.A.;0M8Z.UK
+GeoPark Ltd.;0MDP.UK
+Liberty Latin America Ltd.;0MDS.UK
+AGFA-Gevaert;0MFU.UK
+KBC Ancora;0MFW.UK
+Vicat;0MGJ.UK
+Metropole Television;0MGL.UK
+Jcdecaux;0MGO.UK
+Societe B I;0MGP.UK
+Forvia;0MGR.UK
+SEB;0MGS.UK
+REMY Cointreau;0MGU.UK
+Eramet;0MGV.UK
+Bureau Veritas Registre International De;0MH1.UK
+Ipsen;0MH6.UK
+ERG;0MHC.UK
+Azimut Holding;0MHJ.UK
+DNO;0MHP.UK
+Atresmedia CORP;0MJT.UK
+AKER;0MJX.UK
+Sprott Physical Gold Trust;0MK3.UK
+CrÃ©dit Agricole Toulouse 31;0MK6.UK
+Obrascon Huarte LAIN;0MKG.UK
+Sligro Food Group;0MKM.UK
+Melia Hotels International;0MKO.UK
+TOMTOM N.V.;0MKS.UK
+Tecnicas Reunidas;0MKT.UK
+Viscofan;0MKW.UK
+Sonae;0ML0.UK
+EDP Renovaveis;0ML1.UK
+Ishares CORE SPI ETF ETF;0ML4.UK
+MKB Nedsense N V;0ML7.UK
+Sword Group SE;0MN5.UK
+Bakkafrost;0MQ2.UK
+LYXOR EUR STOXX;0MQ4.UK
+Lyxor MSCI India Ucits ETF C-EUR;0MRA.UK
+LYXOR UCITS ETF;0MRH.UK
+SGAM CAC40 XBEA;0MRI.UK
+SGAM ESTXX50 ET;0MRJ.UK
+SGAM ESTXX50 XB;0MRL.UK
+LYX ETF MSCI EM;0MRN.UK
+LYXOR LEV DJ;0MRP.UK
+LYXOR SH CAC 40;0MRS.UK
+LYXOR LEV CAC 4;0MRT.UK
+LYXOR DBLE SH;0MS7.UK
+TGS Nopec Geophysical;0MSJ.UK
+Novabase S.G.P.S., S.A.;0MTZ.UK
+Warehouses De Pauw CVA;0MU2.UK
+BPER Banca;0MU6.UK
+Edenred;0MUM.UK
+IREN;0MUN.UK
+Eurofins Scientific;0MV5.UK
+Laurent-Perrier S.A.;0MV6.UK
+Vantiva S.A.;0MV8.UK
+Augros Cosmetic Packaging;0MVK.UK
+LYXOR ETF S&P 5;0MVP.UK
+Legrand;0MW7.UK
+Teixeira Duarte S.A.;0N1O.UK
+Wereldhave Belgium NV/SA REIT;0N2C.UK
+Sprott Physical GOLD Trust AND Silver TR;0N2R.UK
+COLRUYT;0N4Y.UK
+A2A;0N54.UK
+Amplifon;0N61.UK
+Arcadis;0N6B.UK
+Claranova;0N6K.UK
+Bonduelle;0N75.UK
+Cairo Communication;0N7I.UK
+full_name;symbol
+Templeton Global Balanced Fund A Acc EUR 634;2402.N
+Warta UFK Profit Plan Zrównoważony;2407.N
+Warta UFK Pekao Zrównoważony;2430.N
+Warta UFK Pekao Dochodu i Wzrostu Rynku Chińskiego;2448.N
+Templeton Global Balanced Fund N Acc EUR 758;2458.N
+Templeton Global Balanced Fund A Acc USD 781;2470.N
+Templeton Global Balanced Fund A Qdis USD 815;2496.N
+Warta UFK ING Zrównoważony;2498.N
+Warta UFK Investor Zrównoważony;2527.N
+Warta UFK ESALIENS Strateg;2567.N
+Warta UFK Santander Zrównoważony;2608.N
+Templeton Emerging Markets Balanced Fund A Acc USD 1239;2610.N
+Templeton Emerging Markets Balanced Fund A Acc EUR 1240;2611.N
+Templeton Emerging Markets Balanced Fund A Acc EUR H1 1241;2612.N
+Templeton Emerging Markets Balanced Fund N Acc USD 1255;2613.N
+Templeton Emerging Markets Balanced Fund N Acc EUR H1 1256;2614.N
+Warta UFK Generali Korona Zrównoważony;2621.N
+Franklin Strategic Balanced Fund Nacc EUR;2660.N
+Franklin Diversified Balanced Fund Aacc EUR;2661.N
+UNIQA Portfel Zrównoważony;2687.N
+Goldman Sachs Parasol FIO Zrównoważony;2735.N
+Warta UFK Rockbridge Aktywnego Zarządzania;2738.N
+Warta UFK Pekao Zrównoważony;2748.N
+Warta UFK Pekao Dochodu i Wzrostu Rynku Chińskiego;2752.N
+Warta UFK NN Zrównoważony;2765.N
+Warta UFK Investor Zrównoważony;2778.N
+Warta UFK ESALIENS Strateg;2788.N
+Warta UFK Santander Zrównoważony;2795.N
+Warta PPE Zrównoważony;2803.N
+Uniqa Generali Korona Zrównoważony;2810.N
+Uniqa ESALIENS Strateg;2844.N
+Investor Zrównoważony;2853.N
+Pocztowy SFIO Subfundusz Obligacji;2889.N
+Uniqa BlackRock Global Allocation;2963.N
+Uniqa Santander Zrównoważony;2966.N
+Uniqa Allianz Aktywnej Alokacji;2987.N
+ESA Parasol FIO Subfundusz Medycyny i Nowych Technologii;3156.N
+Rockbridge Neo Akcji Europy Środkowej i Wschodniej;3171.N
+Rockbridge Neo SFIO Azji i Rynków Wschodzących;3197.N
+Millennium FIO Subfundusz Cyklu Koniunkturalnego;3200.N
+PZU UFK Strefa Zysku Generali Korona Zrównoważony;3262.N
+Noble Funds FIO Subfundusz Akcji Amerykańskich;3308.N
+Noble Funds FIO Subfundusz Emerytalny;3309.N
+PZU UFK NN Zrównoważony;3340.N
+Pekao Subfundusz Dochodu i Wzrostu Rynku Chińskiego Funduszy Globalnych SFIO;3353.N
+Pekao Subfundusz Pekao Zrównoważony FIO;3370.N
+Pekao Subfundusz Zrównoważony Rynku Amerykańskiego FIO Walutowy FIO;3391.N
+Pekao Subfundusz Zrównoważony Rynku Amerykańskiego FIO USD Walutowy FIO;3392.N
+PZU UFK Millennium FIO Subfundusz Cyklu Koniunkturalnego;3439.N
+PZU UFK MetLife Zrównoważony Nowa Europa;3453.N
+full_name;symbol
+PZU UFK Franklin Templeton Global Fundamental Strategies Fund USD;3663.N
+PZU UFK Franklin Templeton Global Fundamental Strategies Fund EUR;3665.N
+Schroder ISF Global Dynamic Balanced A Acc;3689.N
+Schroder ISF Global Dynamic Balanced A Dis;3690.N
+Schroder ISF Global Dynamic Balanced A1 Acc;3691.N
+Schroder ISF Global Dynamic Balanced A1 Dis;3692.N
+Schroder ISF Global Multi Asset Allocation USD A1 Acc;3741.N
+PZU UFK ESALIENS Strateg;3884.N
+PZU UFK Global Allocation Fund hedgingowy EUR;3920.N
+PZU UFK Global Allocation Fund A2 USD;3921.N
+Generali Korona Zrównoważony;3962.N
+PZU UFK Strefa Zysku Santander Zrównoważony;3981.N
+Open Life Generali Korona Zrównoważony;4000.N
+Vienna Life UFK Allianz Aktywnej Alokacji;4029.N
+Vienna Life UFK Santander Zrównoważony;4045.N
+Vienna Life UFK BlackRock Global Allocation USD;4075.N
+Vienna Life UFK BlackRock Global Allocation Fund EUR;4076.N
+Vienna Life UFK ESALIENS Strateg;4116.N
+Vienna Life UFK Franklin Global Fundamental Strategies USD;4138.N
+Vienna Life UFK Investor Zrównoważony;4173.N
+Vienna Life UFK JPMorgan Global Balanced EUR;4181.N
+Open Life Noble Fund Mieszany;4182.N
+Open Life Noble Fund Global Return;4192.N
+Vienna Life UFK NN Zrównoważony;4208.N
+Vienna Life UFK Noble Global Return;4213.N
+Vienna Life UFK Noble Mieszany;4214.N
+Vienna Life UFK Rockbridge Aktywnego Zarządzania;4256.N
+Vienna Life UFK Templeton Global Income EUR;4320.N
+Vienna Life UFK Templeton Global Income USD;4321.N
+Vienna Life UFK Generali Korona Zrównoważony;4336.N
+Open Life ESALIENS Strateg;4342.N
+Open Life AXA Makro Alokacji;4358.N
+Allianz Prosperita Strategia Międzynarodowa;4375.N
+Allianz Prosperita Strategia Zrównoważona;4376.N
+Allianz UFK Allianz Aktywnej Alokacji;4382.N
+Allianz UFK ESALIENS Strateg;4400.N
+Allianz UFK Investor Zrównoważony;4418.N
+Allianz UFK Noble Funds Global Return;4441.N
+Allianz UFK Noble Funds Mieszany;4442.N
+PKO UFK Schroders Globalnej Dywersyfikacji pro;4495.N
+Allianz UFK Generali Korona Zrównoważony;4517.N
+PKO UFK Rockbridge Aktywnego Zarządzania pro;4527.N
+PKO UFK Quercus Selektywny pro;4532.N
+UNIQA Santander Zrównoważony;4557.N
+UNIQA ESALIENS Strateg;4566.N
+PKO UFK Franklin Podstawowy Globalny pro;4572.N
+UNIQA Investor Zrównoważony;4587.N
+PKO UFK ESALIENS Strateg pro;4596.N
+UNIQA Makro Alokacji;4604.N
+UNIQA Noble Fund Global Return;4613.N
+UNIQA Noble Fund Mieszany;4614.N
+UNIQA Pekao Dochodu i Wzrostu Rynku Chińskiego;4635.N
+UNIQA Generali Korona Zrównoważony;4678.N
+MetLife UFK Noble Fund Mieszany;4699.N
+Compensa UFK Santander Zrównoważony;4727.N
+Compensa UFK ESALIENS Strateg;4730.N
+Credit Agricole UFK Allianz Aktywnej Alokacji;4758.N
+Credit Agricole UFK Credit Agricole Dynamiczny Polski;4762.N
+Credit Agricole UFK ESALIENS Strateg;4769.N
+Credit Agricole UFK Investor Zrównoważony;4773.N
+Credit Agricole UFK Noble Funds Mieszany;4780.N
+Credit Agricole UFK Generali Korona Zrównoważony;4797.N
+Allianz PPE Zrównoważony;4805.N
+Allianz UFK Międzynarodowy;4824.N
+Allianz UFK Zrównoważony;4852.N
+MetLife UFK BlackRock Global Allocation Fund;4855.N
+MetLife UFK Akcji Amerykańskich;4860.N
+Europa UFK AXA Makro Alokacji;4976.N
+Europa UFK Allianz Aktywnej Alokacji;4983.N
+Europa UFK BlackRock GF Global Allocation Hedged A2 PLN;5005.N
+Europa UFK ESALIENS Strateg;5013.N
+Europa UFK Investor Zrównoważony;5030.N
+NN UFK Zrównoważony;5038.N
+NN UFK Generali Korona Zrównoważony;5039.N
+Europa UFK NN Zrównoważony;5057.N
+Europa UFK Noble Funds Global Return;5059.N
+Europa UFK Noble Funds Mieszany;5060.N
+Europa UFK Generali Korona Zrównoważony;5107.N
+NN UFK Noble Fund Mieszany;5118.N
+NN UFK Mieszany;5120.N
+Generali IKE Mieszany Emeytalny;5148.N
+Generali UFK Santander Zrównoważony;5157.N
+Generali UFK ESALIENS Strateg;5170.N
+Generali UFK Grupowy Mieszany A;5182.N
+Generali UFK Investor Zrównoważony;5191.N
+NN Międzynarodowy UFK Mieszany;5200.N
+Hestia PPE Zrównoważony;5201.N
+Hestia UFK Zrównoważony ESALIENS;5202.N
+Hestia IKE Zrównoważony;5203.N
+Generali UFK Mieszany;5205.N
+Generali UFK Mieszany Plus;5206.N
+Generali UFK Noble Mieszany;5217.N
+Hestia UFK Zrównoważony;5224.N
+Generali UFK Porftel db Zrównoważony;5227.N
+Generali UFK Portfel Aktywnej Alokacji;5228.N
+Generali UFK Portfel Polski Zrównoważony;5237.N
+Generali UFK Rockbridge Zrównoważony;5254.N
+Generali UFK Generali Korona Zrównoważony;5267.N
+Generali mBank Mieszany;5281.N
+PKO UFK Santander Zrównoważony pro;5302.N
+PKO UFK NN Zrównoważony pro;5307.N
+PKO UFK Generali Korona Zrównoważony pro;5312.N
+Allianz SFIO Dochodowy Income and Growth;1010.N
+Allianz SFIO Artificial Intelligence I;1018.N
+BPS FIO Subfundusz BPS Obligacji;1019.N
+BGŻ BNP Paribas FIO Obligacji;1036.N
+Alior Obligacji Uniwersalny;1047.N
+Superfund Spokojna Inwestycja Plus;1063.N
+Superfund Obligacyjny;1069.N
+Open Life Superfund Płynnościowy;1075.N
+Europa UFK Superfund Płynnościowy;1083.N
+MetLife PPE Fundusz Obligacji A;1085.N
+VIG CQ Total Return Bond C;1088.N
+VIG CQ Total Return Bond B;1089.N
+VIG CQ Total Return Bond;1090.N
+VIG CQ Obligacji Korporacyjnych C;1091.N
+VIG CQ Obligacji Korporacyjnych B;1092.N
+VIG CQ Obligacji Korporacyjnych;1103.N
+VIG CQ Obligacji C;1104.N
+VIG CQ Obligacji B;1105.N
+VIG CQ Obligacji;1106.N
+VIG CQ Konserwatywny C;1107.N
+VIG CQ Konserwatywny B;1108.N
+VIG CQ Konserwatywny;1109.N
+PZU SFIO Universum;1125.N
+PZU FIO Papierów Dłużnych POLONEZ;1127.N
+PZU FIO Obligacji Odpowiedzialnego Rozwoju;1129.N
+PZU FIO Globalny Obligacji Korporacyjnych;1132.N
+PZU FIO Parasolowy Dłużny Rynków Wschodzących;1135.N
+Europa UFK PZU Papierów Dłużnych POLONEZ;1164.N
+PZU UFK Strefa Zysku PZU Papierów Dłużnych Polonez;1171.N
+Allianz UFK PZU Papierów Dłużnych Polonez;1185.N
+Allianz UFK PZU Papierów Dłużnych POLONEZ;1190.N
+Vienna Life UFK PZU Papierów Dłużnych POLONEZ;1198.N
+Allianz Dłużnych Papierów Korporacyjnych Z;1205.N
+Allianz Dłużnych Papierów Korporacyjnych;1206.N
+Vienna Life Fidelity Funds America Fund Hedged;1391.N
+Vienna Life Fidelity Funds European Dynamic Growth Fund Hedged;1400.N
+Allianz FIO Subfundusz Obligacji Globalnych;1405.N
+Allianz FIO Subfundusz Obligacji Globalnych B;1407.N
+Allianz FIO Subfundusz Obligacji Globalnych C;1408.N
+Allianz FIO Subfundusz Obligacji Plus;1409.N
+Allianz FIO Subfundusz Obligacji Plus kategoria B;1412.N
+Allianz FIO Subfundusz Obligacji Plus kategoria C;1413.N
+Allianz FIO Subfundusz Obligacji Plus kategoria D;1414.N
+Allianz FIO Subfundusz Polskich Obligacji Skarbowych;1418.N
+Allianz FIO Subfundusz Polskich Obligacji Skarbowych kat. B;1419.N
+Allianz FIO Subfundusz Polskich Obligacji Skarbowych kat. C;1420.N
+Allianz FIO Subfundusz Polskich Obligacji Skarbowych kat. D;1421.N
+Vienna Life Investor Zabezpieczenia Emerytalnego;1433.N
+Allianz SFIO Artificial Intelligence;1441.N
+Allianz SFIO PIMCO Emerging Local Bond;1445.N
+Allianz SFIO PIMCO Emerging Markets Bond;1446.N
+Allianz SFIO PIMCO Global Bond;1447.N
+Allianz SFIO PIMCO Global High Yield Bond;1448.N
+Vienna Life PKO Technologii i Innowacji Globalny;1450.N
+Vienna Life Skarbiec III Filar;1451.N
+Allianz SFIO PIMCO Income;1453.N
+Vienna Life Skarbiec Spółek Wzrostowych;1454.N
+Allianz SFIO PIMCO ESG Income;1456.N
+Amundi Parasolowy FIO Subfundusz Globalnych Perspektyw Konserwatywny;1463.N
+UNIQA FIO Subfundusz UNIQA Obligacji;1484.N
+UNIQA FIO Subfundusz UNIQA Obligacji F;1485.N
+UNIQA FIO Subfundusz UNIQA Obligacji Korporacyjnych;1486.N
+UNIQA FIO Subfundusz UNIQA Obligacji Korporacyjnych F;1488.N
+UNIQA FIO Subfundusz UNIQA Obligacji Korporacyjnych Z;1489.N
+UNIQA FIO Subfundusz UNIQA Obligacji Z;1490.N
+BlackRock Asian Tiger Bond D2 EUR Hedged;1517.N
+BlackRock Asian Tiger Bond E2 EUR Hedged;1518.N
+BlackRock Asian Tiger Bond I2 USD;1519.N
+BlackRock Emerging Markets Bond E2 EUR Hedged;1524.N
+BlackRock Emerging Markets Bond I2 EUR;1525.N
+BlackRock Emerging Markets Bond I2 EUR Hedged;1526.N
+BlackRock Emerging Markets Bond I2 USD;1527.N
+BlackRock Emerging Markets Corporate Bond A2 EUR Hedged;1528.N
+BlackRock Emerging Markets Corporate Bond A2 USD;1529.N
+BlackRock Emerging Markets Corporate Bond D2 USD;1530.N
+BlackRock Emerging Markets Corporate Bond E2 EUR;1531.N
+BlackRock Emerging Markets Corporate Bond E2 EUR Hedged;1532.N
+BlackRock Emerging Markets Corporate Bond I2 EUR Hedged;1533.N
+BlackRock Emerging Markets Corporate Bond I2 USD;1534.N
+BlackRock Euro Bond A2 USD Hedged;1535.N
+BlackRock Euro Bond D2 USD Hedged;1536.N
+BlackRock Euro Short Duration Bond D2 USD Hedged;1537.N
+BlackRock Fixed Income Global Opportunities A1 EUR;1550.N
+BlackRock Fixed Income Global Opportunities A2 EUR;1551.N
+BlackRock Fixed Income Global Opportunities D2 EUR;1552.N
+BlackRock Fixed Income Global Opportunities E2 EUR;1553.N
+BlackRock Fixed Income Global Opportunities I2 EUR Hedged;1554.N
+BlackRock Fixed Income Global Opportunities I2 USD;1555.N
+BlackRock Global Corporate Bond I2 USD;1556.N
+BlackRock US Dollar Core Bond I2 USD;1565.N
+BlackRock USD High Yield Bond I2 EUR Hedged;1567.N
+Ipopema SFIO Subfundusz Obligacji Korporacyjnych S;1588.N
+Rockbridge FIO Parasolowy Subfundusz Obligacji;1634.N
+Rockbridge FIO Parasolowy Subfundusz Obligacji 2;1635.N
+Rockbridge FIO Parasolowy Subfundusz Obligacji Korporacyjnych PLN;1636.N
+Ipopema SFIO Subfundusz Obligacji C;1669.N
+Ipopema SFIO Subfundusz Obligacji Korporacyjnych A;1670.N
+Santander Obligacji Korporacyjnych A;1671.N
+Santander Obligacji Korporacyjnych S;1672.N
+Santander Obligacji Korporacyjnych T;1673.N
+Ipopema SFIO Subfundusz Obligacji Korporacyjnych P;1677.N
+Ipopema SFIO Subfundusz Obligacji Korporacyjnych C;1678.N
+Ipopema SFIO Subfundusz Obligacji Korporacyjnych B;1693.N
+Santander Prestiż SFIO Subfundusz Obligacji Korporacyjnych;1695.N
+Santander Prestiż SFIO Subfundusz Obligacji Skarbowych;1696.N
+BlackRock Asian Tiger Bond A1 USD;1714.N
+BlackRock Asian Tiger Bond A2 SGD Hedged;1715.N
+BlackRock Asian Tiger Bond A2 USD;1716.N
+BlackRock Asian Tiger Bond A3 USD;1717.N
+BlackRock Asian Tiger Bond D2 USD;1718.N
+BlackRock Asian Tiger Bond E2 EUR;1719.N
+BlackRock Asian Tiger Bond E2 USD;1720.N
+BlackRock Emerging Markets Bond A1 EUR;1744.N
+BlackRock Emerging Markets Bond A1 USD;1745.N
+BlackRock Emerging Markets Bond A2 EUR;1746.N
+BlackRock Emerging Markets Bond A2 EUR Hedged;1747.N
+BlackRock Emerging Markets Bond A2 USD;1748.N
+BlackRock Emerging Markets Bond D2 EUR;1749.N
+BlackRock Emerging Markets Bond D2 EUR Hedged;1750.N
+BlackRock Emerging Markets Bond D2 USD;1751.N
+BlackRock Emerging Markets Bond E2 EUR;1752.N
+BlackRock Emerging Markets Bond E2 USD;1753.N
+BlackRock Emerging Markets Local Currency Bond A1 EUR;1761.N
+BlackRock Emerging Markets Local Currency Bond A1 USD;1762.N
+BlackRock Emerging Markets Local Currency Bond A2 EUR Hedged;1763.N
+BlackRock Emerging Markets Local Currency Bond A2 EUR;1764.N
+BlackRock Emerging Markets Local Currency Bond A2 PLN Hedged;1765.N
+BlackRock Emerging Markets Local Currency Bond A2 SGD Hedged;1766.N
+BlackRock Emerging Markets Local Currency Bond A2 USD;1767.N
+BlackRock Emerging Markets Local Currency Bond A2 CHF Hedged;1768.N
+BlackRock Emerging Markets Local Currency Bond A3 EUR;1769.N
+BlackRock Emerging Markets Local Currency Bond A3 USD;1770.N
+BlackRock Emerging Markets Local Currency Bond D2 EUR;1771.N
+BlackRock Emerging Markets Local Currency Bond D2 EUR Hedged;1772.N
+BlackRock Emerging Markets Local Currency Bond D2 PLN Hedged;1773.N
+BlackRock Emerging Markets Local Currency Bond D2 USD;1774.N
+BlackRock Emerging Markets Local Currency Bond E2 EUR;1775.N
+BlackRock Emerging Markets Local Currency Bond E2 EUR Hedged;1776.N
+BlackRock Emerging Markets Local Currency Bond E2 USD;1777.N
+BlackRock Emerging Markets Local Currency Bond I2 EUR Hedged;1778.N
+BlackRock Emerging Markets Local Currency Bond I2 USD;1779.N
+BlackRock Euro Bond A1 EUR;1780.N
+BlackRock Euro Bond A1 USD;1781.N
+BlackRock Euro Bond A2 EUR;1782.N
+BlackRock Euro Bond A2 USD;1783.N
+BlackRock Euro Bond D2 EUR;1784.N
+BlackRock Euro Bond D2 USD;1785.N
+BlackRock Euro Bond E2 EUR;1786.N
+BlackRock Euro Bond E2 USD;1787.N
+BlackRock Euro Bond I2 EUR;1788.N
+BlackRock Euro Corporate Bond A1 EUR;1789.N
+BlackRock Euro Corporate Bond A2 EUR;1790.N
+BlackRock Euro Corporate Bond A3 EUR;1791.N
+BlackRock Euro Corporate Bond D2 EUR;1792.N
+BlackRock Euro Corporate Bond E2 EUR;1793.N
+BlackRock Euro Short Duration Bond A1 EUR;1795.N
+BlackRock Euro Short Duration Bond A2 CHF Hedged;1796.N
+BlackRock Euro Short Duration Bond A2 EUR;1797.N
+BlackRock Euro Short Duration Bond A2 USD Hedged;1798.N
+BlackRock Euro Short Duration Bond D2 EUR;1799.N
+BlackRock Euro Short Duration Bond E2 EUR;1800.N
+BlackRock Euro Short Duration Bond I2 EUR;1801.N
+BlackRock Fixed Income Global Opportunities A2 EUR Hedged;1841.N
+BlackRock Fixed Income Global Opportunities A2 PLN Hedged;1842.N
+BlackRock Fixed Income Global Opportunities A2 SGD Hedged;1843.N
+BlackRock Fixed Income Global Opportunities A2 USD;1844.N
+BlackRock Fixed Income Global Opportunities D2 PLN Hedged;1845.N
+BlackRock Fixed Income Global Opportunities D2 USD;1846.N
+BlackRock Global Corporate Bond A2 EUR Hedged;1873.N
+BlackRock Global Corporate Bond A2 USD;1874.N
+BlackRock Global Corporate Bond D2 EUR Hedged;1875.N
+BlackRock Global Corporate Bond E2 EUR Hedged;1876.N
+BlackRock Global Government Bond A1 EUR Hedged;1900.N
+BlackRock Global Government Bond A1 USD;1901.N
+BlackRock Global Government Bond A2 EUR Hedged;1902.N
+BlackRock Global Government Bond A2 USD;1903.N
+BlackRock Global Government Bond D2 EUR Hedged;1904.N
+BlackRock Global Government Bond D2 USD;1905.N
+BlackRock Global Government Bond E2 EUR Hedged;1906.N
+BlackRock Global Government Bond E2 USD;1907.N
+BlackRock Global High Yield Bond A1 EUR Hedged;1908.N
+BlackRock Global High Yield Bond A1 USD;1909.N
+BlackRock Global High Yield Bond A2 EUR Hedged;1910.N
+BlackRock Global High Yield Bond A2 GBP Hedged;1911.N
+BlackRock Global High Yield Bond A2 PLN Hedged;1912.N
+BlackRock Global High Yield Bond A2 SEK Hedged;1913.N
+BlackRock Global High Yield Bond A2 USD;1914.N
+BlackRock Global High Yield Bond D2 EUR Hedged;1915.N
+BlackRock Global High Yield Bond D2 USD;1916.N
+BlackRock Global High Yield Bond E2 EUR;1917.N
+BlackRock Global High Yield Bond E2 EUR Hedged;1918.N
+BlackRock Global High Yield Bond E2 USD;1919.N
+BlackRock Global High Yield Bond I2 USD;1920.N
+BlackRock Global Inflation Linked Bond A2 EUR Hedged;1921.N
+BlackRock Global Inflation Linked Bond A2 USD;1922.N
+BlackRock Global Inflation Linked Bond D2 EUR Hedged;1923.N
+BlackRock Global Inflation Linked Bond D2 USD;1924.N
+BlackRock Global Inflation Linked Bond E2 EUR Hedged;1925.N
+Santander Prestiż SFIO Subfundusz Dłużny Globalny;1987.N
+BlackRock Renminbi Bond A2 USD;1998.N
+BlackRock Renminbi Bond D2 USD;1999.N
+BlackRock Renminbi Bond E2 EUR;2000.N
+BlackRock Renminbi Bond E2 EUR Hedged;2001.N
+BlackRock US Dollar Core Bond A1 USD;2015.N
+BlackRock US Dollar Core Bond A2 USD;2016.N
+BlackRock US Dollar Core Bond D2 USD;2017.N
+BlackRock US Dollar Core Bond E2 USD;2018.N
+BlackRock US Dollar Short Duration Bond A1 USD;2023.N
+BlackRock US Dollar Short Duration Bond A2 EUR Hedged;2024.N
+BlackRock US Dollar Short Duration Bond A2 USD;2025.N
+BlackRock US Dollar Short Duration Bond D2 USD;2026.N
+BlackRock US Dollar Short Duration Bond E2 EUR;2027.N
+BlackRock US Dollar Short Duration Bond E2 USD;2028.N
+BlackRock US Government Mortgage A1 USD;2039.N
+BlackRock US Government Mortgage A2 USD;2040.N
+BlackRock US Government Mortgage D2 USD;2041.N
+BlackRock US Government Mortgage E2 EUR;2042.N
+BlackRock US Government Mortgage E2 USD;2043.N
+BlackRock USD High Yield Bond A1 USD;2056.N
+BlackRock USD High Yield Bond A2 AUD Hedged;2057.N
+BlackRock USD High Yield Bond A2 EUR Hedged;2058.N
+BlackRock USD High Yield Bond A2 SGD Hedged;2059.N
+BlackRock USD High Yield Bond A2 USD;2060.N
+BlackRock USD High Yield Bond D2 EUR Hedged;2061.N
+BlackRock USD High Yield Bond D2 USD;2062.N
+BlackRock USD High Yield Bond E2 EUR;2063.N
+BlackRock USD High Yield Bond E2 USD;2064.N
+BlackRock USD High Yield Bond I2 USD;2065.N
+BlackRock World Bond A1 USD;2083.N
+BlackRock World Bond A2 EUR Hedged;2084.N
+BlackRock World Bond A2 USD;2085.N
+BlackRock World Bond A2RF GBP Hedged;2086.N
+BlackRock World Bond D2 EUR Hedged;2087.N
+BlackRock World Bond D2 USD;2088.N
+BlackRock World Bond E2 EUR;2089.N
+BlackRock World Bond E2 USD;2090.N
+UNIQA SFIO Subfundusz Globalnych Strategii Dłużnych;2156.N
+UNIQA SFIO Subfundusz Amerykańskich Obligacji Korporacyjnych;2168.N
+EQUES SFIO Subfundusz Obligacji;2195.N
+Warta Ubezpieczeniowy Fundusz Kapitałowy UFK;2196.N
+Fidelity Asian High Yield Fund A Acc EUR;2202.N
+Fidelity Asian High Yield Fund A Acc USD;2203.N
+Fidelity Emerging Market Debt A Acc EUR Hedged;2221.N
+Fidelity Emerging Market Debt A Acc EUR;2222.N
+Fidelity Emerging Market Debt A Acc USD;2223.N
+Fidelity Emerging Market Debt E Acc EUR;2224.N
+Fidelity European High Yield Fund A Acc EUR;2231.N
+Fidelity European High Yield Fund E Acc EUR;2232.N
+Fidelity Global High Grade Income Fund A Acc USD;2239.N
+Fidelity Global High Yield Fund A Acc USD;2240.N
+Fidelity Global Income Fund A Acc EUR Hedged;2241.N
+Fidelity Global Income Fund A Acc USD;2242.N
+Warta UFK UniObligacje Aktywny;2246.N
+Warta UFK Generali Oszczędnościowy;2250.N
+Fidelity Global Strategic Bond A Acc EUR Hedged;2254.N
+Fidelity Global Strategic Bond A Acc PLN Hedged;2255.N
+Fidelity Global Strategic Bond A Acc USD;2256.N
+Fidelity Global Strategic Bond E Acc EUR Hedged;2257.N
+Fidelity US High Yield Fund A Acc EUR;2270.N
+Fidelity US High Yield Fund A Acc USD;2271.N
+Warta UFK Skarbiec Obligacja Instrumentów Dłużnych;2281.N
+Templeton Asian Bond Fund A Acc EUR H1 187;2294.N
+Templeton Global Total Return Fund A Acc PLN H1 0246;2298.N
+Templeton Global Bond Fund N Acc EUR 286;2305.N
+Templeton Global Total Return Fund A Acc EUR 287;2306.N
+Templeton Global Total Return Fund N Acc EUR 288;2307.N
+Templeton Global Total Return Fund A Mdis EUR 349;2308.N
+Franklin European Total Return Fund A Mdis USD 356;2311.N
+Templeton Asian Bond Fund A Acc USD 384;2323.N
+Templeton Asian Bond Fund A Mdis USD 385;2324.N
+Templeton Asian Bond Fund N Acc USD 388;2325.N
+Templeton Asian Bond Fund N Mdis USD 389;2326.N
+Templeton Asian Bond Fund A Acc EUR 392;2327.N
+Templeton Asian Bond Fund N Acc EUR 394;2328.N
+Franklin Strategic Income Fund A Acc USD 426;2336.N
+Templeton Asian Bond Fund A Mdis EUR 465;2348.N
+Warta UFK Rockbridge Obligacji 2;2349.N
+Templeton Global High Yield Fund A Acc USD 478;2351.N
+Templeton Global High Yield Fund A Mdis USD 479;2352.N
+Templeton Global High Yield Fund A Acc EUR 480;2353.N
+Templeton Global High Yield Fund A Mdis EUR 481;2354.N
+Templeton Global High Yield Fund N Acc EUR 483;2355.N
+Franklin High Yield Euro Fund A Mdis EUR 486;2356.N
+Templeton Global Bond Fund A Acc EUR H1 495;2360.N
+Templeton Global Bond Fund N Acc EUR H1 496;2361.N
+Templeton Global Total Return Fund A Acc EUR H1 497;2362.N
+Franklin European Total Return Fund N Mdis EUR 538;2365.N
+Templeton Global Bond Fund A Mdis EUR H1 540;2366.N
+Templeton Global Bond Fund N Mdis EUR H1 541;2367.N
+Templeton Global Total Return Fund N Mdis EUR H1 542;2368.N
+Templeton Global Total Return Fund A Mdis EUR H1 543;2369.N
+Templeton Global Bond Fund A Acc USD 549;2370.N
+Templeton Global Bond Fund AX Acc USD 614;2394.N
+Franklin Euro Government Bond Fund N Acc EUR 628;2399.N
+Templeton Global Bond Euro Fund N Acc EUR 631;2401.N
+Franklin U.S. Low Duration Fund AX Acc USD 635;2403.N
+Franklin U.S. Low Duration Fund N Mdis USD 641;2405.N
+Franklin European Total Return Fund A Acc EUR 648;2409.N
+Franklin European Total Return Fund A Mdis EUR 649;2410.N
+Franklin European Total Return Fund N Acc EUR 650;2411.N
+Templeton Global Total Return Fund A Acc USD 651;2412.N
+Templeton Global Total Return Fund A Mdis USD 652;2413.N
+Templeton Global Total Return Fund N Acc USD 655;2414.N
+Templeton Global Bond Fund A Ydis EUR 661;2415.N
+Templeton Global Total Return Fund A Ydis EUR 663;2416.N
+Templeton Global Bond Fund A Acc EUR 675;2419.N
+Templeton Global Bond Fund A Mdis EUR 676;2420.N
+Templeton Global Bond Euro Fund A Acc EUR 679;2421.N
+Templeton Global Bond Euro Fund A Ydis EUR 680;2422.N
+Templeton Emerging Markets Bond Fund A Qdis EUR 698;2424.N
+Franklin U.S. Government Fund AX Acc USD 708;2425.N
+Warta UFK Profit Plan Defensywny;2428.N
+Franklin High Yield Fund N Acc USD 729;2435.N
+Franklin Euro High Yield Fund N Acc EUR 732;2437.N
+Templeton Global Bond Fund N Acc USD 735;2440.N
+Warta UFK Pekao Obligacji Plus;2445.N
+Templeton Emerging Markets Bond Fund N Acc USD 744;2447.N
+Franklin U.S. Government Fund N Acc USD 749;2450.N
+Franklin High Yield Fund A Acc USD 750;2451.N
+Franklin High Yield Euro Fund A Acc EUR 751;2452.N
+Franklin High Yield Euro Fund A Ydis EUR 795;2481.N
+Templeton Global Bond Fund A Mdis USD 810;2493.N
+Franklin U.S. Government Fund A Mdis USD 812;2494.N
+Templeton Emerging Markets Bond Fund A Qdis USD 813;2495.N
+Franklin High Yield Fund A Mdis USD 825;2501.N
+Templeton Euroland Bond Fund A Ydis EUR 837;2506.N
+Warta UFK JPM Global Strategic Bond D Acc PLN Hedged;2507.N
+Franklin U.S. Government Fund N Mdis USD 847;2511.N
+Templeton Emerging Markets Bond Fund A Mdis USD 1049;2529.N
+Templeton Global Bond Fund A Acc CHF 1058;2530.N
+Templeton Global Total Return Fund A Acc CHF H1 1059;2531.N
+Franklin Templeton Global Fundamental Strategies Fund N Acc PLN 1069;2537.N
+Templeton Global Bond Fund N Acc PLN 1070;2538.N
+Warta UFK Investor Obligacji;2539.N
+Templeton Emerging Markets Bond Fund Z Acc USD 1081;2543.N
+Templeton Asian Bond Fund Z Acc USD 1083;2544.N
+Templeton Emerging Markets Bond Fund A Acc USD 1105;2548.N
+Templeton Emerging Markets Bond Fund A Acc CHF 1109;2550.N
+Templeton Global Bond Fund Z Ydis EUR 1111;2551.N
+Templeton Global Total Return Fund Z Ydis EUR 1112;2552.N
+Franklin High Yield Euro Fund A Mdis USD 1116;2556.N
+Templeton Global Bond Fund A Ydis EUR 1117;2557.N
+Templeton Emerging Markets Bond Fund A Ydis EUR 1118;2558.N
+Franklin European Corporate Bond Fund A Acc EUR 1139;2570.N
+Templeton European Corporate Bond Fund A Ydis EUR 1140;2571.N
+Templeton European Corporate Bond Fund N Acc EUR 1143;2572.N
+Templeton European Corporate Bond Fund N Ydis EUR 1144;2573.N
+Templeton Asian Bond Fund A Acc CHF 1159;2580.N
+Templeton Global Bond Fund N Ydis EUR 1165;2581.N
+Templeton Global Total Return Fund N Ydis EUR 1166;2582.N
+Templeton Global Total Return Fund A Ydis EUR 1167;2583.N
+Franklin U.S. Government Fund A Acc USD 1174;2584.N
+Warta UFK Bezpieczny;2594.N
+Templeton Global Bond Euro Fund A Acc USD 1201;2596.N
+Franklin U.S. Low Duration Fund A Acc USD 1202;2597.N
+Templeton Global Bond Fund Z Mdis USD 1207;2599.N
+Templeton Global Total Return Fund Z Mdis USD 1208;2600.N
+Templeton Emerging Markets Bond Fund Z Mdis USD 1209;2601.N
+Franklin U.S. Government Fund Z Mdis USD 1210;2602.N
+Franklin High Yield Fund Z Mdis USD 1211;2603.N
+Warta UFK UniObligacje Aktywny;2620.N
+Franklin Global Convertible Securities Fund Aacc USD;2624.N
+Franklin Global Convertible Securities Fund Nacc USD;2625.N
+Franklin Global Convertible Securities Fund Aacc EUR;2626.N
+Franklin Global Convertible Securities Fund Nacc EUR;2627.N
+Franklin Global Convertible Securities Fund Aacc EUR H1;2628.N
+Franklin Global Convertible Securities Fund Aacc CHF H1;2629.N
+Warta UFK Generali Korona Obligacje;2631.N
+Warta UFK Skarbiec Obligacja;2646.N
+Franklin GCC Bond Fund Aacc USD;2648.N
+Franklin Euro Short Duration Bond Fund Aacc EUR;2652.N
+Franklin Euro Short Duration Bond Fund Nacc EUR;2653.N
+Generali CEE Corporate Bonds Fund dividend class B EUR;2686.N
+Generali CEE Corporate Bonds Fund A EUR;2688.N
+Generali CEE Corporate Bonds Fund A PLN;2689.N
+Generali CEE Emerging Europe Bond Fund A EUR;2691.N
+Goldman Sachs SFIO Globalny Długu Korporacyjnego;2708.N
+Goldman Sachs Obligacji Rynków Wschodzących WL;2712.N
+Goldman Sachs SFIO Obligacji Plus;2713.N
+Goldman Sachs Parasol FIO Krótkoterminowych Obligacji;2721.N
+Goldman Sachs Parasol FIO Obligacji;2722.N
+ING Pakiet Ostrożny SFIO;2724.N
+Warta UFK Rockbridge Obligacji 2;2737.N
+Warta UFK Pekao Obligacji Plus;2751.N
+Warta UFK Investor Obligacji;2781.N
+Warta PPE Bezpieczny;2805.N
+Uniqa UniObligacje Aktywny;2808.N
+Uniqa Generali Korona Obligacje;2812.N
+Uniqa Templeton Global Total Return;2816.N
+Uniqa Templeton Global Bond;2817.N
+Uniqa Skarbiec Obligacja;2821.N
+Uniqa NN Obligacji;2832.N
+Uniqa NN Globalny Długu Korporacyjnego;2833.N
+Investor Obligacji Uniwersalny;2848.N
+Investor Konserwatywny;2858.N
+Investor Akumulacji Kapitału;2865.N
+Investor Value;2866.N
+full_name;symbol
+Ipopema SFIO Subfundusz Obligacji B;2884.N
+Uniqa BlackRock Fixed Income Global Opportunities;2964.N
+Uniqa BlackRock Emerging Markets Local Currency Bond;2965.N
+Uniqa Allianz Polskich Obligacji Skarbowych;2984.N
+Vienna Life UniObligacje Nowa Europa;3041.N
+Vienna Life Generali Korona Obligacje;3049.N
+Vienna Life Templeton Global Total Return;3093.N
+Vienna Life Skarbiec Obligacja;3112.N
+Vienna Life Rockbridge Obligacji 2;3137.N
+Vienna Life Pekao Obligacji Plus;3149.N
+ESA Parasol FIO Subfundusz Obligacji;3153.N
+ESA Parasol Zagraniczny SFIO Subfundusz Globalnych Papierów Dłużnych;3160.N
+Rockbridge Neo Obligacji Skarbowych;3168.N
+Vienna Life Noble Funds Global Return;3191.N
+Rockbridge Neo Obligacji Plus;3193.N
+Rockbridge Neo Obligacji Światowych;3194.N
+Millennium FIO Subfundusz Instrumentów Dłużnych;3203.N
+Millennium SFIO Subfundusz Globalny Strategii Alternatywnych;3208.N
+Millenium SFIO Subfundusz Konserwatywny;3209.N
+Millennium SFIO Subfundusz Obligacji Korporacyjnych;3210.N
+Vienna Life NN Obligacji;3212.N
+Vienna Life Investor Obligacji;3224.N
+Vienna Life Franklin European Total Return Fund EUR;3234.N
+Vienna Life ESALIENS Obligacji;3237.N
+Vienna Life Allianz Obligacji Plus;3258.N
+PZU UFK Strefa Zysku Generali Korona Obligacje;3264.N
+PZU UFK Templeton Global Total Return Fund A Acc USD 651;3268.N
+PZU UFK Templeton Global Total Return Fund A Acc PLN H1 0246;3269.N
+PZU UFK Templeton Global Total Return Fund A Acc EUR H1 497;3270.N
+PZU UFK Templeton Global Bond Fund N Acc PLN 1070;3272.N
+PZU UFK Templeton Global Bond Fund A Acc USD 549;3273.N
+PZU UFK Templeton Global Bond Fund A Acc EUR 675;3274.N
+PZU UFK Strefa Zysku Skarbiec Obligacje;3282.N
+PZU UFK Schroder ISF Emerging Markets Debt Absolute Return USD;3290.N
+Noble Funds FIO Subfundusz Obligacji;3310.N
+Pekao Subfundusz Obligacji Strategicznych Funduszy Globalnych SFIO;3355.N
+Pekao Subfundusz Obligacji i Dochodu Funduszy Globalnych SFIO;3356.N
+Pekao Subfundusz Obligacji Dynamiczna Alokacja 2 FIO;3364.N
+Pekao Subfundusz Pekao Obligacji Plus FIO;3365.N
+Pekao Obligacji Dynamiczna Alokacja FIO;3371.N
+PZU UFK ING L Obligacji Rynków Wschodzących Waluta Lokalna A;3378.N
+PZU UFK ING L Globalny Długu Korporacyjnego A;3381.N
+Pekao Subfundusz Obligacji Dolarowych Plus FIO Walutowy FIO;3387.N
+Pekao Subfundusz Obligacji Dolarowych Plus FIO USD Walutowy FIO;3388.N
+Pekao Subfundusz Obligacji Europejskich Plus FIO Walutowy FIO;3389.N
+Pekao Subfundusz Obligacji Europejskich Plus FIO EUR Walutowy FIO;3390.N
+PKO Obligacji Skarbowych Średnioterminowy;3406.N
+PKO Papierów Dłużnych USD;3408.N
+PZU UFK Millennium SFIO Funduszy Zagranicznych Subfundusz Obligacji Korporacyjnych;3409.N
+PZU UFK Millennium Instrumentów Dłużnych;3412.N
+PZU UFK Millennium SFIO Funduszy Zagranicznych Subfundusz Globalny Strategii Alternatywnych;3416.N
+PZU UFK MetLife Obligacji Skarbowych;3455.N
+PZU UFK Ipopema SFIO Subfundusz Obligacji A;3467.N
+PZU UFK Strefa Zysku Investor Obligacji;3483.N
+Schroder ISF Emerging Markets Debt Absolute Return A1 Acc USD;3588.N
+PZU UFK Franklin Templeton Global Fundamental Strategies Fund PLN;3664.N
+PZU UFK Franklin High Yield Euro Fund A Acc EUR;3814.N
+Skarbiec FIO Obligacji;3896.N
+Skarbiec FIO Obligacji B;3897.N
+PZU UFK BlackRock Fixed Income Global Opportunities Fund;3922.N
+PZU UFK BlackRock Fixed Income Global Opportunities Fund hedgingowy EUR;3926.N
+PZU UFK BlackRock Fixed Income Global Opportunities Fund hedgingowy EUR;3927.N
+PZU UFK BlackRock Emerging Markets Local Currency Bond E2 EUR;3928.N
+PZU UFK BlackRock Emerging Markets Local Currency Bond A2 Hedged PLN;3945.N
+Generali Dolar;3958.N
+Generali Korona Obligacje;3960.N
+Generali Obligacje Nowa Europa;3964.N
+SGB Dłużny;3966.N
+PZU UFK BlackRock Emerging Markets Local Currency Bond A2 USD;3968.N
+PZU UFK BlackRock Emerging Markets Local Currency Bond A2 EUR;3974.N
+Generali Obligacje Aktywny;3975.N
+PZU UFK Allianz Obligacji Plus;3988.N
+UFK Pramerica Pekao FIO Subfundusz Pekao Obligacji Plus FIO;3990.N
+UFK Pramerica ESALIENS Parasol FIO Subfundusz Obligacji;3994.N
+Open Life Generali Korona Obligacje;4002.N
+Vienna Life UFK Santander Prestiż Obligacji Korporacyjnych;4047.N
+Vienna Life UFK BlackRock Emerging Markets Bond USD;4066.N
+Vienna Life UFK BlackRock Euro Bond EUR;4068.N
+Vienna Life UFK BlackRock Euro Corporate Bond EUR;4069.N
+Vienna Life UFK BlackRock Euro Short Duration Bond EUR;4070.N
+Vienna Life UFK BlackRock Fixed Income Global Opportunities EUR Hedged;4072.N
+Vienna Life UFK BlackRock Fixed Income Global Opportunities PLN Hedged;4073.N
+Vienna Life UFK BlackRock Fixed Income Global Opportunities USD;4074.N
+Vienna Life UFK ESALIENS Obligacji;4114.N
+Vienna Life UFK Fidelity Euro Cash EUR;4123.N
+Vienna Life UFK Fidelity European High Yield EUR;4124.N
+Vienna Life UFK Fidelity US Dollar Cash USD;4133.N
+Vienna Life UFK Fidelity US High Yield Fund USD;4134.N
+Vienna Life UFK Franklin Global Fundamental Strategies Fund PLN Hedged;4139.N
+Vienna Life UFK Franklin High Yield Fund EUR;4141.N
+Vienna Life UFK Franklin High Yield Fund USD;4142.N
+Vienna Life UFK Franklin Strategic Income USD;4150.N
+Vienna Life UFK Franklin U.S. Government Fund USD;4152.N
+Vienna Life UFK Investor Gotówkowy;4166.N
+Vienna Life UFK Investor Obligacji;4169.N
+Vienna Life UFK JPMorgan Global Corporate Bond Fund EUR Hedged;4184.N
+Vienna Life UFK JPMorgan Global High Yield Bond PLN Hedged;4187.N
+Vienna Life UFK JPMorgan Global High Yield Bond USD;4188.N
+Vienna Life UFK JPMorgan US Bond USD;4196.N
+Vienna Life UFK NN Globalny Długu Korporacyjnego;4202.N
+Vienna Life UFK NN Obligacji;4205.N
+Vienna Life UFK Rockbridge Obligacji 1;4258.N
+Vienna Life UFK Schroder Asian Convertible Bond EUR Hedged;4260.N
+Vienna Life UFK Schroder Asian Convertible Bond PLN Hedged;4261.N
+Vienna Life UFK Schroder Asian Convertible Bond USD;4262.N
+Vienna Life UFK Schroder Global Corporate Bond USD;4276.N
+Vienna Life UFK Schroder ISF Emerging Markets Debt Absolute Return A1 Acc USD;4284.N
+Vienna Life UFK Templeton Asian Bond Fund USD;4304.N
+Vienna Life UFK Templeton Emerging Markets Bond USD;4314.N
+Vienna Life UFK Templeton Global Bond Fund EUR;4317.N
+Vienna Life UFK Templeton Global Bond Fund USD;4318.N
+Vienna Life UFK Templeton Global Total Return USD;4323.N
+Vienna Life UFK Templeton Global Total Return Fund EUR;4325.N
+Vienna Life UFK Templeton Global Total Return Fund PLN Hedged;4326.N
+Vienna Life UFK Generali Korona Obligacje;4334.N
+Vienna Life UFK UniObligacje Aktywny;4337.N
+Vienna Life UFK Generali Obligacje Nowa Europa;4338.N
+Open Life Franklin Global Fundamental Strategies Fund;4341.N
+Open Life ESALIENS Obligacji;4344.N
+Open Life AXA Obligacji;4357.N
+Open Life AXA Lokacyjny;4359.N
+Allianz Prosperita Strategia Konserwatywna;4374.N
+Allianz UFK Allianz Obligacji Plus;4383.N
+PKO UFK Generali Obligacje Aktywny pro;4387.N
+PKO UFK Templeton Globalny Papierów Dłużnych pro;4390.N
+Allianz UFK ESALIENS Obligacji;4398.N
+Allianz UFK Franklin Global Fundamental Strategies Fund PLN Hedged;4402.N
+Allianz UFK Investor Gotówkowy;4411.N
+Allianz UFK Investor Obligacji Korporacyjnych;4413.N
+Allianz UFK NN L Globalny Długu Korporacyjnego;4429.N
+Allianz UFK NN Obligacji;4433.N
+Allianz UFK NN Obligacji Rynków Wschodzących Waluta Lokalna;4434.N
+Allianz UFK PKO Obligacji Długoterminowych;4445.N
+PKO UFK Templeton Globalny Całkowitego Zwrotu pro;4450.N
+Allianz UFK Pekao Gotówkowy;4465.N
+Allianz UFK Pekao Obligacji Dynamiczna Alokacja 2;4466.N
+Allianz UFK Pekao Obligacji Plus;4467.N
+Allianz UFK Pekao Obligacji Strategicznych;4468.N
+Allianz UFK Skarbiec Obligacja;4494.N
+Allianz UFK Templeton Global Bond Fund PLN;4506.N
+Allianz UFK Templeton Global Total Return Fund PLN;4507.N
+Allianz UFK Generali Korona Obligacje;4515.N
+Allianz UFK UniObligacje Aktywny;4519.N
+Allianz UFK Generali Obligacje Nowa Europa;4520.N
+PKO UFK Rockbridge Obligacji pro;4524.N
+PKO UFK Rockbridge Obligacji 2 pro;4525.N
+HDI Gerling Generali Korona Obligacje;4542.N
+UNIQA Santander Prestiż Obligacji Korporacyjnych;4558.N
+UNIQA BlackRock GF Emerging Markets Bond;4559.N
+UNIQA Franklin Templeton Global Fundamental Strategies PLN;4575.N
+UNIQA Investor Obligacji;4581.N
+PKO UFK Santander Prestiż Obligacji Skarbowych pro;4600.N
+UNIQA Lokacyjny;4602.N
+UNIQA Lokacyjny IKZE;4603.N
+UNIQA ING L Globalny Długu Korporacyjnego;4606.N
+UNIQA Noble Fund Obligacji;4615.N
+UNIQA Obligacji;4618.N
+UNIQA Obligacji IKZE;4619.N
+UNIQA Obligacji Korporacyjnych;4620.N
+UNIQA Obligacji Korporacyjnych IKZE;4621.N
+UNIQA PKO Obligacji Długoterminowych;4628.N
+UNIQA Skarbiec Obligacja Instrumentów Dłużnych;4658.N
+MetLife UFK UniObligacje Aktywny;4662.N
+UNIQA Templeton Global Bond PLN;4666.N
+UNIQA Templeton Global Total Return PLN;4667.N
+MetLife UFK Generali Korona Obligacje;4669.N
+MetLife UFK Templeton Global Total Return Fund;4680.N
+MetLife UFK Templeton Global Bond Fund;4681.N
+MetLife UFK NN L Globalny Długu Korporacyjnego;4706.N
+MetLife UFK JP Morgan Funds Global High Yield Bond;4710.N
+MetLife UFK Ipopema Obligacji;4734.N
+Compensa UFK ING Globalny Długu Korporacyjnego;4743.N
+Credit Agricole UFK Credit Agricole Lokacyjny;4763.N
+Credit Agricole UFK ESALIENS Obligacji;4766.N
+Credit Agricole UFK NN Obligacji;4776.N
+Credit Agricole UFK NN Ochrony Kapitału 90;4777.N
+Credit Agricole UFK PKO Obligacji Długoterminowych;4784.N
+Credit Agricole UFK Generali Korona Obligacje;4795.N
+Credit Agricole UFK Generali Obligacje Nowa Europa;4798.N
+Allianz PPE Obligacji;4803.N
+MetLife UFK Franklin Global Fundamental Strategies Fund;4819.N
+Allianz UFK Gwarancji Zysku;4820.N
+Allianz UFK NN L Globalny Długu Korporacyjnego;4825.N
+Allianz UFK Skarbiec Obligacja;4843.N
+Allianz UFK UniObligacje Aktywny;4851.N
+MetLife UFK BlackRock Global High Yield Bond Fund;4854.N
+MetLife UFK BlackRock Fixed Income Global Opportunities Fund;4856.N
+Europa UFK AXA Antyinflacyjny;4973.N
+Europa UFK AXA Lokacyjny;4975.N
+Europa UFK AXA Obligacji;4977.N
+Europa UFK Allianz Obligacji Plus;4984.N
+Europa UFK Allianz Polskich Obligacji Skarbowych;4986.N
+UFK NN L Renta Fund Eurocredit;4989.N
+Europa UFK Santander Prestiż Obligacji Korporacyjnych;4996.N
+Europa UFK Santander Prestiż Obligacji Skarbowych;4997.N
+Europa UFK BlackRock GF Emerging Markets Local Currency Bond A2 Hedged PLN;5003.N
+Europa UFK BlackRock GF Fixed Income Gbl Opp Hedged A2 PLN;5004.N
+Europa UFK ESALIENS Obligacji;5010.N
+Europa UFK Investor Obligacji;5026.N
+Europa UFK Ipopema Obligacji B;5034.N
+NN UFK Generali Korona Obligacje;5042.N
+Europa UFK NN L Globalny Długu Korporacyjnego;5052.N
+Europa UFK NN Obligacji;5055.N
+Europa UFK PKO Obligacji Długoterminowych;5064.N
+Europa UFK Skarbiec Instrumentów Dłużnych Skarbiec Obligacja;5088.N
+Europa UFK Templeton Global Bond Fund N Acc PLN;5098.N
+Europa UFK Templeton Global Total Return Fund A Acc PLN;5099.N
+Europa UFK Generali Korona Obligacje;5105.N
+Europa UFK UniObligacje Aktywny;5108.N
+Europa UFK Generali Obligacje Nowa Europa;5109.N
+NN UFK Obligacji Rynków Wschodzących BIS;5114.N
+NN UFK Obligacji Plus;5116.N
+NN UFK Obligacji;5117.N
+Generali IKE Obligacji;5149.N
+Generali UFK CEE Corporate Bonds Fund PLN Hedged;5167.N
+NN UFK L Globalny Długu Korporacyjnego;5173.N
+Generali UFK Franklin Global Fundamental Strategies Fund PLN Hedged;5174.N
+Generali UFK Grupowy Obligacji A;5183.N
+Generali UFK Ipopema Obligacji;5193.N
+NN Międzynarodowy UFK Obligacji;5199.N
+Generali UFK ING Globalny Długu Korporacyjnego;5211.N
+Generali UFK Obligacji;5222.N
+Generali UFK Obligacji Plus;5223.N
+Generali UFK Rockbridge Obligacji 1;5250.N
+Generali UFK Rockbridge Obligacji 2;5251.N
+Generali UFK Templeton Global Bond Fund PLN Hedged;5262.N
+Generali UFK UniObligacje Aktywny;5269.N
+Generali UFK Generali Obligacje Nowa Europa;5270.N
+Generali mBank Obligacji;5282.N
+PKO UFK NN Obligacji pro;5309.N
+PKO UFK Generali Korona Obligacje pro;5313.N
+BNPPBNPI0927;BNPPBNPI0927.PL
+BNPPBNPIT0127;BNPPBNPIT0127.PL
+BNPPENHA0526;BNPPENHA0526.PL
+BNPPMXWD1026;BNPPMXWD1026.PL
+GSI5YPLNXOP;GSI5YPLNXOP.PL
+Allegro.eu Certyfikaty Long 22.90;INTLALE51805.PL
+Allegro.eu Certyfikaty Long 27.80;INTLALE60970.PL
+Allegro.eu Certyfikaty Long 29.30;INTLALE75192.PL
+AMD Certyfikaty Long 100.60;INTLAMD82461.PL
+AMD Certyfikaty Long 126.50;INTLAMD84079.PL
+AMD Certyfikaty Long 171.90;INTLAMD86751.PL
+AMD Certyfikaty Long 185.50;INTLAMD87247.PL
+Amazon Certyfikaty Long 129.20;INTLAMZ62281.PL
+Amazon Certyfikaty Long 164.20;INTLAMZ69427.PL
+Amazon Certyfikaty Long 172.30;INTLAMZ79491.PL
+Amazon Certyfikaty Long 189.30;INTLAMZ81828.PL
+Amazon Certyfikaty Long 198.70;INTLAMZ82909.PL
+Amazon Certyfikaty Long 208.60;INTLAMZ84061.PL
+Apple Certyfikaty Long 225.70;INTLAPL86298.PL
+Apple Certyfikaty Long 239.40;INTLAPL87320.PL
+Apple Certyfikaty Long 253.60;INTLAPL88484.PL
+Oil Certyfikaty Long 42.30;INTLBCO46417.PL
+Oil Certyfikaty Long 51.99;INTLBCO79186.PL
+Oil Certyfikaty Long 56.25;INTLBCO81869.PL
+Oil Certyfikaty Long 55.63;INTLBCO81877.PL
+Oil Certyfikaty Long 55.00;INTLBCO81885.PL
+Oil Certyfikaty Long 57.51;INTLBCO82529.PL
+CCC Certyfikaty Long 48.30;INTLCCC64733.PL
+CCC Certyfikaty Long 93.80;INTLCCC67017.PL
+CCC Certyfikaty Long 109.70;INTLCCC88518.PL
+CCC Certyfikaty Long 106.60;INTLCCC88526.PL
+CCC Certyfikaty Long 102.60;INTLCCC88534.PL
+CCC Certyfikaty Long 98.30;INTLCCC88542.PL
+CD Projekt Certyfikaty Long 171.30;INTLCDR71977.PL
+CD Projekt Certyfikaty Long 193.20;INTLCDR72637.PL
+CD Projekt Certyfikaty Long 184.00;INTLCDR72645.PL
+CD Projekt Certyfikaty Long 202.80;INTLCDR73619.PL
+CD Projekt Certyfikaty Long 212.80;INTLCDR80366.PL
+CD Projekt Certyfikaty Long 223.40;INTLCDR81513.PL
+CD Projekt Certyfikaty Long 234.40;INTLCDR88328.PL
+Cyfrowy Polsat Certyfikaty Long 10.70;INTLCPS87981.PL
+Cyfrowy Polsat Certyfikaty Long 9.90;INTLCPS88070.PL
+DAX Certyfikaty Long 21080.00;INTLDAX80564.PL
+DAX Certyfikaty Long 21480.00;INTLDAX81117.PL
+DAX Certyfikaty Long 22620.00;INTLDAX81265.PL
+DAX Certyfikaty Long 23010.00;INTLDAX81968.PL
+DAX Certyfikaty Long 22910.00;INTLDAX81976.PL
+DAX Certyfikaty Long 22800.00;INTLDAX81984.PL
+DAX Certyfikaty Long 23100.00;INTLDAX82271.PL
+Dino Polska Certyfikaty Long 30.90;INTLDNP34710.PL
+Dino Polska Certyfikaty Long 32.40;INTLDNP69708.PL
+Dino Polska Certyfikaty Long 29.30;INTLDNP69724.PL
+Dino Polska Certyfikaty Long 35.60;INTLDNP71597.PL
+Dino Polska Certyfikaty Long 35.80;INTLDNP88641.PL
+Dow Jones Certyfikaty Long 45480.00;INTLDOW86439.PL
+Dow Jones Certyfikaty Long 46600.00;INTLDOW88575.PL
+EUR/USD Certyfikaty Long 1.145;INTLEUD84202.PL
+EUR/PLN Certyfikaty Long 4.165;INTLEUR70250.PL
+GBP/PLN Certyfikaty Long 4.691;INTLGBP73700.PL
+Gold Certyfikaty Long 3283.00;INTLGLD80135.PL
+Gold Certyfikaty Long 3379.00;INTLGLD83162.PL
+Gold Certyfikaty Long 3411.00;INTLGLD85464.PL
+Gold Certyfikaty Long 3710.00;INTLGLD86066.PL
+Gold Certyfikaty Long 3751.00;INTLGLD86199.PL
+Gold Certyfikaty Long 3869.00;INTLGLD86579.PL
+Gold Certyfikaty Long 3914.00;INTLGLD86587.PL
+Gold Certyfikaty Long 3984.00;INTLGLD87882.PL
+Gold Certyfikaty Long 4017.00;INTLGLD88112.PL
+Gold Certyfikaty Long 4064.00;INTLGLD88120.PL
+Gold Certyfikaty Long 4106.00;INTLGLD88229.PL
+Gold Certyfikaty Long 4154.00;INTLGLD88237.PL
+Gold Certyfikaty Long 4234.00;INTLGLD88690.PL
+Gold Certyfikaty Long 4194.00;INTLGLD88807.PL
+InPost Certyfikaty Long 7.10;INTLINP61556.PL
+InPost Certyfikaty Long 7.90;INTLINP62042.PL
+JSW Certyfikaty Long 17.70;INTLJSW32144.PL
+JSW Certyfikaty Long 16.30;INTLJSW32151.PL
+JSW Certyfikaty Long 19.20;INTLJSW69534.PL
+JSW Certyfikaty Long 20.20;INTLJSW72728.PL
+KGHM Certyfikaty Long 107.50;INTLKGH79236.PL
+KGHM Certyfikaty Long 158.40;INTLKGH86348.PL
+KGHM Certyfikaty Long 192.20;INTLKGH88260.PL
+KGHM Certyfikaty Long 201.60;INTLKGH88476.PL
+KGHM Certyfikaty Long 222.20;INTLKGH88591.PL
+Meta Certyfikaty Long 556.90;INTLMET81547.PL
+Meta Certyfikaty Long 584.30;INTLMET82479.PL
+US Natural Gas Certyfikaty Long 3.22;INTLNAG71423.PL
+US Natural Gas Certyfikaty Long 3.14;INTLNAG85266.PL
+US Natural Gas Certyfikaty Long 1.64;INTLNAG87064.PL
+NASDAQ-100 Certyfikaty Long 10230.00;INTLNDX31054.PL
+NASDAQ-100 Certyfikaty Long 11960.00;INTLNDX32540.PL
+NASDAQ-100 Certyfikaty Long 14340.00;INTLNDX61242.PL
+NASDAQ-100 Certyfikaty Long 21520.00;INTLNDX82701.PL
+NASDAQ-100 Certyfikaty Long 22540.00;INTLNDX84772.PL
+NASDAQ-100 Certyfikaty Long 24110.00;INTLNDX87445.PL
+NASDAQ-100 Certyfikaty Long 24330.00;INTLNDX88468.PL
+Netflix Certyfikaty Long 61.70;INTLNFL66670.PL
+Nvidia Certyfikaty Long 162.20;INTLNVD84640.PL
+Nvidia Certyfikaty Long 167.00;INTLNVD85142.PL
+Palladium Certyfikaty Long 920.00;INTLPAL65961.PL
+Palladium Certyfikaty Long 749.00;INTLPAL69245.PL
+Palladium Certyfikaty Long 1074.00;INTLPAL83808.PL
+Palladium Certyfikaty Long 1255.00;INTLPAL86645.PL
+Palladium Certyfikaty Long 1207.00;INTLPAL86652.PL
+Palladium Certyfikaty Long 1304.00;INTLPAL86868.PL
+Palladium Certyfikaty Long 1356.00;INTLPAL87106.PL
+PGE Certyfikaty Long 7.20;INTLPGE76760.PL
+PGE Certyfikaty Long 7.50;INTLPGE80630.PL
+PGE Certyfikaty Long 7.90;INTLPGE81612.PL
+PKN Orlen Certyfikaty Long 51.60;INTLPKN75465.PL
+PKN Orlen Certyfikaty Long 73.00;INTLPKN83386.PL
+PKN Orlen Certyfikaty Long 82.40;INTLPKN86264.PL
+PKN Orlen Certyfikaty Long 90.00;INTLPKN87270.PL
+PKN Orlen Certyfikaty Long 87.40;INTLPKN87288.PL
+PKOBP Certyfikaty Long 69.60;INTLPKO87262.PL
+PKOBP Certyfikaty Long 73.00;INTLPKO88625.PL
+Platinum Certyfikaty Long 908.00;INTLPLA29751.PL
+Platinum Certyfikaty Long 840.00;INTLPLA70177.PL
+Platinum Certyfikaty Long 1248.00;INTLPLA83782.PL
+Platinum Certyfikaty Long 1297.00;INTLPLA84533.PL
+Platinum Certyfikaty Long 1458.00;INTLPLA86553.PL
+Platinum Certyfikaty Long 1576.00;INTLPLA88799.PL
+PayPal Certyfikaty Long 56.50;INTLPYP63362.PL
+PZU Certyfikaty Long 52.00;INTLPZU80648.PL
+PZU Certyfikaty Long 54.60;INTLPZU87890.PL
+PZU Certyfikaty Long 57.30;INTLPZU88583.PL
+Silver Certyfikaty Long 16.40;INTLSLV29009.PL
+Silver Certyfikaty Long 12.30;INTLSLV29330.PL
+Silver Certyfikaty Long 18.50;INTLSLV29702.PL
+Silver Certyfikaty Long 43.85;INTLSLV86108.PL
+Silver Certyfikaty Long 46.07;INTLSLV86512.PL
+Silver Certyfikaty Long 54.30;INTLSLV88146.PL
+Silver Certyfikaty Long 52.97;INTLSLV88153.PL
+Silver Certyfikaty Long 59.94;INTLSLV88708.PL
+Silver Certyfikaty Long 58.48;INTLSLV88716.PL
+Silver Certyfikaty Long 55.64;INTLSLV88732.PL
+S&P 500 Certyfikaty Long 4455.00;INTLSPX59733.PL
+S&P 500 Certyfikaty Long 6149.00;INTLSPX84897.PL
+S&P 500 Certyfikaty Long 6330.00;INTLSPX85977.PL
+S&P 500 Certyfikaty Long 6422.00;INTLSPX87452.PL
+Tesla Certyfikaty Long 307.80;INTLTSL85381.PL
+Tesla Certyfikaty Long 373.60;INTLTSL85910.PL
+Tesla Certyfikaty Long 355.80;INTLTSL85928.PL
+Tesla Certyfikaty Long 392.00;INTLTSL88500.PL
+Tesla Certyfikaty Long 411.40;INTLTSL88880.PL
+USD/PLN Certyfikaty Long 3.547;INTLUSD67785.PL
+USD/PLN Certyfikaty Long 3.493;INTLUSD69732.PL
+USD/PLN Certyfikaty Long 3.44;INTLUSD70060.PL
+USD/PLN Certyfikaty Long 3.404;INTLUSD77545.PL
+WIG20 Certyfikaty Long 2050.00;INTLW2064147.PL
+WIG20 Certyfikaty Long 2190.00;INTLW2071951.PL
+WIG20 Certyfikaty Long 2600.00;INTLW2080440.PL
+WIG20 Certyfikaty Long 2500.00;INTLW2080523.PL
+WIG20 Certyfikaty Long 2640.00;INTLW2081067.PL
+WIG20 Certyfikaty Long 2750.00;INTLW2083824.PL
+WIG20 Certyfikaty Long 2780.00;INTLW2084756.PL
+WIG20 Certyfikaty Long 2860.00;INTLW2087403.PL
+WIG20 Certyfikaty Long 2830.00;INTLW2087411.PL
+WIG20 Certyfikaty Long 2890.00;INTLW2087767.PL
+WIG20 Certyfikaty Long 2920.00;INTLW2088567.PL
+WIG20 Certyfikaty Long 2970.00;INTLW2088815.PL
+WIG20 Certyfikaty Long 2940.00;INTLW2088823.PL
+mWIG40 ETF Certyfikaty Long 115.60;INTLW4088393.PL
+mWIG40 ETF Certyfikaty Long 109.80;INTLW4088401.PL
+mWIG40 ETF Certyfikaty Long 104.30;INTLW4088419.PL
+XTB Certyfikaty Long 59.10;INTLXTB73932.PL
+XTB Certyfikaty Long 54.10;INTLXTB74963.PL
+XTB Certyfikaty Long 64.20;INTLXTB87999.PL
+Żabka Certyfikaty Long 17.20;INTLZAB71548.PL
+Żabka Certyfikaty Long 15.80;INTLZAB71936.PL
+Żabka Certyfikaty Long 20.70;INTLZAB85159.PL
+Żabka Certyfikaty Long 21.70;INTLZAB88062.PL
+Oil Certyfikaty Short 80.90;INTSBCO53363.PL
+Oil Certyfikaty Short 66.63;INTSBCO86835.PL
+Oil Certyfikaty Short 64.87;INTSBCO87049.PL
+Oil Certyfikaty Short 66.22;INTSBCO87056.PL
+Oil Certyfikaty Short 64.22;INTSBCO88765.PL
+10-year German Government Bond Future Certyfikaty Short 130.30;INTSBND57224.PL
+CCC Certyfikaty Short 174.30;INTSCCC87221.PL
+CCC Certyfikaty Short 140.20;INTSCCC88492.PL
+DAX Certyfikaty Short 25200.00;INTSDAX82289.PL
+DAX Certyfikaty Short 25300.00;INTSDAX82297.PL
+DAX Certyfikaty Short 25400.00;INTSDAX82636.PL
+DAX Certyfikaty Short 25490.00;INTSDAX82644.PL
+DAX Certyfikaty Short 25590.00;INTSDAX82677.PL
+DAX Certyfikaty Short 25690.00;INTSDAX82685.PL
+DAX Certyfikaty Short 26080.00;INTSDAX86876.PL
+DAX Certyfikaty Short 26470.00;INTSDAX86884.PL
+Dow Jones Certyfikaty Short 50540.00;INTSDOW70334.PL
+EUR/USD Certyfikaty Short 1.20;INTSEUD37325.PL
+Gold Certyfikaty Short 4589.00;INTSGLD86959.PL
+Gold Certyfikaty Short 4635.00;INTSGLD86967.PL
+Gold Certyfikaty Short 4776.00;INTSGLD86991.PL
+Gold Certyfikaty Short 4896.00;INTSGLD88138.PL
+JSW Certyfikaty Short 30.40;INTSJSW68940.PL
+US Natural Gas Certyfikaty Short 3.83;INTSNAG88773.PL
+US Natural Gas Certyfikaty Short 4.24;INTSNAG88781.PL
+NASDAQ-100 Certyfikaty Short 27710.00;INTSNDX73031.PL
+NASDAQ-100 Certyfikaty Short 27910.00;INTSNDX84285.PL
+NASDAQ-100 Certyfikaty Short 26230.00;INTSNDX88013.PL
+Nvidia Certyfikaty Short 200.60;INTSNVD88344.PL
+Palladium Certyfikaty Short 2000.00;INTSPAL87130.PL
+Pekao Certyfikaty Short 228.90;INTSPEO75135.PL
+Pekao Certyfikaty Short 281.80;INTSPEO85068.PL
+PKN Orlen Certyfikaty Short 119.30;INTSPKN87312.PL
+PKN Orlen Certyfikaty Short 107.90;INTSPKN88021.PL
+PZU Certyfikaty Short 72.30;INTSPZU81638.PL
+PZU Certyfikaty Short 77.60;INTSPZU85399.PL
+S&P 500 Certyfikaty Short 6993.00;INTSSPX70367.PL
+S&P 500 Certyfikaty Short 7276.00;INTSSPX72454.PL
+S&P 500 Certyfikaty Short 7423.00;INTSSPX73049.PL
+S&P 500 Certyfikaty Short 8038.00;INTSSPX86454.PL
+Tesla Certyfikaty Short 549.70;INTSTSL85936.PL
+USD/JPY Certyfikaty Short 160.00;INTSUSJ86421.PL
+WIG20 Certyfikaty Short 3350.00;INTSW2084764.PL
+WIG20 Certyfikaty Short 3430.00;INTSW2085191.PL
+WIG20 Certyfikaty Short 3480.00;INTSW2087775.PL
+WIG20 Certyfikaty Short 3530.00;INTSW2088831.PL
+WIG20 Certyfikaty Short 3590.00;INTSW2088849.PL
+XTB Certyfikaty Short 82.50;INTSXTB84350.PL
+XTB Certyfikaty Short 77.50;INTSXTB87254.PL
+Żabka Certyfikaty Short 25.50;INTSZAB71563.PL
+RBIECCC0928;RBIECCC0928.PL
+Gold Future Certyfikat Faktor Long;RBIFL10GOLD1.PL
+Brent Crude Oil Future Certyfikat Faktor Long;RBIFL10OIL7.PL
+Silver Future Certyfikat Faktor Long;RBIFL10SILVE4.PL
+Silver Future Certyfikat Faktor Long;RBIFL10SILVE6.PL
+mWIG40 Certyfikat Faktor Long;RBIFL2MWIG40.PL
+Cyfrowy Polsat SA Certyfikat Faktor Long;RBIFL3CPS1.PL
+Grupa Azoty SA Certyfikat Faktor Long;RBIFL4ATTP1.PL
+Cyfrowy Polsat SA Certyfikat Faktor Long;RBIFL4CPS2.PL
+Eurocash SA Certyfikat Faktor Long;RBIFL4EUH2.PL
+KGHM Polska Miedz SA Certyfikat Faktor Long;RBIFL4KGH1.PL
+Volkswagen AG Vorzüge Certyfikat Faktor Long;RBIFL4VOWP.PL
+Asseco Poland SA Certyfikat Faktor Long;RBIFL5ACP3.PL
+Allegro.eu SA Certyfikat Faktor Long;RBIFL5ALE4.PL
+Grupa Azoty SA Certyfikat Faktor Long;RBIFL5ATTP1.PL
+CD Projekt SA Certyfikat Faktor Long;RBIFL5CDPRO4.PL
+Cyfrowy Polsat SA Certyfikat Faktor Long;RBIFL5CPS2.PL
+Dino Polska SA Certyfikat Faktor Long;RBIFL5DNP2.PL
+Grupa Kety SA Certyfikat Faktor Long;RBIFL5KETY2.PL
+KGHM Polska Miedz SA Certyfikat Faktor Long;RBIFL5KGH1.PL
+LPP SA Certyfikat Faktor Long;RBIFL5LPP3.PL
+Pepco Group NV Certyfikat Faktor Long;RBIFL5PCOP2.PL
+Pepco Group NV Certyfikat Faktor Long;RBIFL5PCOP5.PL
+Orlen SA Certyfikat Faktor Long;RBIFL5PKN1.PL
+Zabka Group S.A. Certyfikat Faktor Long;RBIFL5ZAB.PL
+Silver Future Certyfikat Faktor Long;RBIFL8SILVE5.PL
+Silver Future Certyfikat Faktor Long;RBIFL9SILVE2.PL
+Gold Future Certyfikat Faktor Short;RBIFS10GOLD6.PL
+Brent Crude Oil Future Certyfikat Faktor Short;RBIFS10OIL5.PL
+Gielda Papierow Wartosciowych w Warszawie SA Certyfikat Faktor Short;RBIFS3GPW.PL
+KGHM Polska Miedz SA Certyfikat Faktor Short;RBIFS3KGH1.PL
+KGHM Polska Miedz SA Certyfikat Faktor Short;RBIFS3KGH2.PL
+LPP SA Certyfikat Faktor Short;RBIFS3LPP2.PL
+mBank SA Certyfikat Faktor Short;RBIFS3MBK2.PL
+PZU SA Certyfikat Faktor Short;RBIFS3PZU1.PL
+Silver Future Certyfikat Faktor Short;RBIFS3SILVE3.PL
+Asseco Poland SA Certyfikat Faktor Short;RBIFS4ACP3.PL
+KGHM Polska Miedz SA Certyfikat Faktor Short;RBIFS4KGH3.PL
+mBank SA Certyfikat Faktor Short;RBIFS4MBK3.PL
+Bank Pekao SA Certyfikat Faktor Short;RBIFS4PEO3.PL
+Silver Future Certyfikat Faktor Short;RBIFS4SILVE4.PL
+WIG20 Certyfikat Faktor Short;RBIFS7W203.PL
+WIG20 Certyfikat Faktor Short;RBIFS8W202.PL
+RBITLADS12;RBITLADS12.PL
+RBITLATTP8;RBITLATTP8.PL
+RBITLCPS11;RBITLCPS11.PL
+RBITLLPP11;RBITLLPP11.PL
+RBITLLPP16;RBITLLPP16.PL
+RBITLMWIG4011;RBITLMWIG4011.PL
+RBITSDAX66;RBITSDAX66.PL
+RBITSPEO25;RBITSPEO25.PL
+RBITSPKO29;RBITSPKO29.PL
+RBITSPZU23;RBITSPZU23.PL
+WIG20 Warrant Put;RBIWP0326W203.PL
+PZU SA Warrant Put;RBIWP0626PZU.PL
+Gold Future Certyfikat Faktor Long;RCFL10GOLD.PL
+Grupa Azoty SA Certyfikat Faktor Long;RCFL2ATTP.PL
+Budimex SA Certyfikat Faktor Long;RCFL2BME.PL
+CCC SA Certyfikat Faktor Long;RCFL2CCC3.PL
+Gold Future Certyfikat Faktor Long;RCFL2GOLD.PL
+Jastrzebska Spolka Weglowa SA Certyfikat Faktor Long;RCFL2JSW.PL
+LPP SA Certyfikat Faktor Long;RCFL2LPP1.PL
+mWIG40 Certyfikat Faktor Long;RCFL2MWIG401.PL
+Allegro Certyfikat Faktor Long;RCFL3ALE.PL
+Allegro.eu SA Certyfikat Faktor Long;RCFL3ALE2.PL
+Alior Bank SA Certyfikat Faktor Long;RCFL3ALR2.PL
+Grupa Azoty SA Certyfikat Faktor Long;RCFL3ATTP.PL
+CCC SA Certyfikat Faktor Long;RCFL3CCC2.PL
+CCC SA Certyfikat Faktor Long;RCFL3CCC3.PL
+CD Projekt SA Certyfikat Faktor Long;RCFL3CDPRO5.PL
+Dino Polska SA Certyfikat Faktor Long;RCFL3DNP1.PL
+Energa SA Certyfikat Faktor Long;RCFL3ENG.PL
+Gold Future Certyfikat Faktor Long;RCFL3GOLD1.PL
+Gold Future Certyfikat Faktor Long;RCFL3GOLD2.PL
+Jastrzebska Spolka Weglowa SA Certyfikat Faktor Long;RCFL3JSW1.PL
+KGHM Polska Miedz SA Certyfikat Faktor Long;RCFL3KGH.PL
+KGHM Polska Miedz SA Certyfikat Faktor Long;RCFL3KGH1.PL
+PGE S.A. Certyfikat Faktor Long;RCFL3PGE1.PL
+Silver Future Certyfikat Faktor Long;RCFL3SILVE.PL
+Silver Future Certyfikat Faktor Long;RCFL3SILVE3.PL
+Ten Square Games SA Certyfikat Faktor Long;RCFL3TEN4.PL
+TAURON Polska Energia SA Certyfikat Faktor Long;RCFL3TPE.PL
+WIG20 Future Certyfikat Faktor Long;RCFL3W20.PL
+X Trade Brokers Dom Maklerski SA Certyfikat Faktor Long;RCFL3XTB.PL
+Allegro.eu SA Certyfikat Faktor Long;RCFL4ALE2.PL
+Allegro.eu SA Certyfikat Faktor Long;RCFL4ALE3.PL
+Alior Bank SA Certyfikat Faktor Long;RCFL4ALR2.PL
+CD Projekt SA Certyfikat Faktor Long;RCFL4CDPRO5.PL
+CD Projekt SA Certyfikat Faktor Long;RCFL4CDPRO6.PL
+Dino Polska SA Certyfikat Faktor Long;RCFL4DNP1.PL
+RCFL4GOLD;RCFL4GOLD.PL
+KGHM Polska Miedz SA Certyfikat Faktor Long;RCFL4KGH3.PL
+KGHM Polska Miedz SA Certyfikat Faktor Long;RCFL4KGH4.PL
+LPP SA Certyfikat Faktor Long;RCFL4LPP2.PL
+Brent Crude Oil Future Certyfikat Faktor Long;RCFL4OIL7.PL
+Orange Polska SA Certyfikat Faktor Long;RCFL4OPL1.PL
+Orlen SA Certyfikat Faktor Long;RCFL4PKN2.PL
+PKOBP Certyfikat Faktor Long;RCFL4PKO4.PL
+PZU SA Certyfikat Faktor Long;RCFL4PZU2.PL
+Silver Future Certyfikat Faktor Long;RCFL4SILVE.PL
+Silver Future Certyfikat Faktor Long;RCFL4SILVE2.PL
+Silver Future Certyfikat Faktor Long;RCFL4SILVE3.PL
+WIG20 Certyfikat Faktor Long;RCFL4W20.PL
+RCFL5GOLD;RCFL5GOLD.PL
+Silver Future Certyfikat Faktor Long;RCFL5SILVE.PL
+Silver Future Certyfikat Faktor Long;RCFL5SILVE1.PL
+Silver Future Certyfikat Faktor Long;RCFL5SILVE2.PL
+Silver Future Certyfikat Faktor Long;RCFL5SILVE3.PL
+Silver Future Certyfikat Faktor Long;RCFL5SILVE4.PL
+WIG20 Certyfikat Faktor Long;RCFL5W202.PL
+Silver Future Certyfikat Faktor Long;RCFL6SILVE1.PL
+WIG20 Certyfikat Faktor Long;RCFL6W202.PL
+WIG20 Certyfikat Faktor Long;RCFL6W203.PL
+Gold Future Certyfikat Faktor Long;RCFL7GOLD.PL
+Silver Future Certyfikat Faktor Long;RCFL7SILVE4.PL
+MercedesBenz Group AG Certyfikat Faktor Short;RCFS2DAI2.PL
+Allegro.eu SA Certyfikat Faktor Short;RCFS3ALE.PL
+KGHM Polska Miedz SA Certyfikat Faktor Short;RCFS3KGH2.PL
+WIG20 Certyfikat Faktor Short;RCFS3W201.PL
+mWIG40 Certyfikat Faktor Short;RCFS4MWIG401.PL
+WIG20 Certyfikat Faktor Short;RCFS4W20.PL
+Silver Certyfikat Certyfikat partycypacyjny Long;RCLSILVAOPEN.PL
+Nasdaq100 Certyfikat Certyfikat indeksowy Long;RCNDXAOPEN.PL
+Silver Future Certyfikat Turbo Long;RCTLSILVE11.PL
+QUERCUS Silver;1347.N
+PKO UFK Schroder Surowcowy pro;1437.N
+BlackRock World Gold A2 CHF Hedged;2111.N
+BlackRock World Gold A2 EUR;2112.N
+BlackRock World Gold A2 EUR Hedged;2113.N
+BlackRock World Gold A2 HKD Hedged;2114.N
+BlackRock World Gold A2 SGD Hedged;2115.N
+BlackRock World Gold A2 USD;2116.N
+BlackRock World Gold D2 EUR;2117.N
+BlackRock World Gold D2 EUR Hedged;2118.N
+BlackRock World Gold D2 USD;2119.N
+BlackRock World Gold E2 EUR;2120.N
+BlackRock World Gold E2 EUR Hedged;2121.N
+BlackRock World Gold E2 USD;2122.N
+BlackRock World Gold I2 EUR;2123.N
+BlackRock World Gold I2 EUR Hedged;2124.N
+BlackRock World Gold I2 USD;2125.N
+BlackRock World Mining A2 CHF Hedged;2132.N
+BlackRock World Mining A2 EUR;2133.N
+BlackRock World Mining A2 EUR Hedged;2134.N
+full_name;symbol
+Vienna Life UFK BlackRock World Energy EUR Hedged;4094.N
+Vienna Life UFK BlackRock World Energy EUR;4095.N
+Vienna Life UFK BlackRock World Energy USD;4096.N
+Vienna Life UFK BlackRock World Financials EUR;4097.N
+Vienna Life UFK BlackRock World Financials USD;4098.N
+Open Life Skarbiec Akcja;4107.N
+Open Life Schroder ISF Frontier Markets Equity;4110.N
+Vienna Life UFK Credit Suisse SICAV One Equity Global Security CHF;4112.N
+Vienna Life UFK ESALIENS Akcji;4113.N
+Vienna Life UFK Fidelity ASEAN USD;4118.N
+Vienna Life UFK Fidelity America USD;4119.N
+AEGON UFK Fidelity Emerging Europe Middle East & Africa Fund EUR;4120.N
+AEGON UFK Fidelity Emerging Europe Middle East & Africa Fund PLN Hedged;4121.N
+Vienna Life UFK Fidelity Emerging Markets EUR;4122.N
+Vienna Life UFK Fidelity Global Financial Services EUR;4125.N
+Vienna Life UFK Fidelity Global Health Care EUR;4126.N
+Open Life Schroder ISF EURO Equity;4127.N
+Open Life Schroder ISF Asian Opportunities;4128.N
+Vienna Life UFK Fidelity Global Technology EUR;4130.N
+Vienna Life UFK Fidelity Greater China EUR;4131.N
+Vienna Life UFK Fidelity Latin America EUR;4132.N
+Vienna Life UFK Franklin Biotechnology Discovery USD;4135.N
+Vienna Life UFK Franklin European Growth EUR;4136.N
+Vienna Life UFK Franklin European Small Mid Cap Growth EUR;4137.N
+Vienna Life UFK Franklin India EUR;4144.N
+Vienna Life UFK Franklin India Fund PLN Hedged;4145.N
+Vienna Life UFK Franklin India Fund USD;4146.N
+Vienna Life UFK Franklin MENA Fund EUR;4147.N
+Vienna Life UFK Franklin MENA Fund USD;4148.N
+Vienna Life UFK Franklin Mutual European Fund EUR;4149.N
+Vienna Life UFK Franklin U.S.Opportunities EUR;4153.N
+Open Life PKO Akcji Małych i Średnich Spółek;4154.N
+Vienna Life UFK Investor Akcji;4161.N
+Vienna Life UFK Investor Akcji Dużych Spółek;4162.N
+Vienna Life UFK Investor Quality;4163.N
+Vienna Life UFK Investor BRIC;4164.N
+Vienna Life UFK Investor Gold Otwarty;4165.N
+Vienna Life UFK Investor Indie i Chiny;4167.N
+Vienna Life UFK Investor Nowych Technologii;4168.N
+Vienna Life UFK Investor Top 25 Małych Spółek;4171.N
+Vienna Life UFK Investor Top 50 Małych i Średnich Spółek Plus;4172.N
+Vienna Life UFK JPMorgan ASEAN Equity EUR;4174.N
+Vienna Life UFK JPMorgan ASEAN Equity PLN;4175.N
+Vienna Life UFK JPMorgan Emerging Markets Equity Fund USD;4176.N
+Vienna Life UFK JPMorgan Emerging Markets Opportunities USD;4177.N
+Vienna Life UFK JPMorgan Emerging Markets Small Cap USD;4178.N
+Vienna Life UFK JPMorgan Europe Equity Plus EUR;4179.N
+Vienna Life UFK JPMorgan Europe Technology EUR;4180.N
+Vienna Life UFK JPMorgan Global Focus EUR;4185.N
+Vienna Life UFK JPMorgan Global Healthcare USD;4186.N
+Vienna Life UFK JPMorgan Greater China USD;4191.N
+Vienna Life UFK JPMorgan India USD;4193.N
+Vienna Life UFK JPMorgan Japan Strategic Value EUR;4194.N
+Vienna Life UFK JPMorgan Pacific Equity USD;4195.N
+Vienna Life UFK JPMorgan US Technology USD;4197.N
+Open Life Noble Fund Akcji Małych i Średnich Spółek;4199.N
+Vienna Life UFK NN L Japonia;4200.N
+Vienna Life UFK NN Akcji;4201.N
+Vienna Life UFK NN Globalny Spółek Dywidendowych;4203.N
+Vienna Life UFK NN Spółek Dywidendowych Rynków Wschodzących;4206.N
+Vienna Life UFK NN Średnich i Małych Spółek;4209.N
+Open Life Noble Fund Akcji;4210.N
+Vienna Life UFK Noble Akcji;4211.N
+Vienna Life UFK Noble Akcji Małych i Średnich Spółek;4212.N
+Vienna Life UFK Noble Stabilnego Wzrostu Plus;4216.N
+Vienna Life UFK Noble Timingowy;4217.N
+Open Life Investor Top 25 Małych Spółek FIO;4222.N
+Open Life Investor Parasol SFIO Turcja;4223.N
+Open Life Investor Niemcy;4224.N
+Vienna Life UFK PKO Akcji Małych i Średnich Spółek;4225.N
+Vienna Life UFK PKO Akcji Plus;4226.N
+Vienna Life UFK PKO Biotechnologii i Innowacji Globalny;4227.N
+Vienna Life UFK PKO Dóbr Luksusowych Globalny;4228.N
+Open Life Investor Indie i Chiny;4230.N
+Open Life Investor Gold Otwarty;4239.N
+Vienna Life UFK Quercus Agresywny;4252.N
+Vienna Life UFK Rockbridge Akcji Europy Wschodzącej;4255.N
+Vienna Life UFK Schroder Asian Opportunities EUR;4263.N
+Vienna Life UFK Schroder Asian Opportunities USD;4264.N
+Vienna Life UFK Schroder BRIC EUR;4265.N
+Vienna Life UFK Schroder BRIC USD;4266.N
+Open Life Investor Akcji FIO;4268.N
+Vienna Life UFK Schroder EURO Equity PLN Hedged;4269.N
+Vienna Life UFK Schroder Emerging Markets EUR;4270.N
+Vienna Life UFK Schroder Emerging Markets USD;4271.N
+Vienna Life UFK Schroder European Dividend Maximiser EUR;4272.N
+Vienna Life UFK Schroder ISF European Equity Alpha A1 EUR;4273.N
+Vienna Life UFK Schroder Frontier Markets Equity PLN Hedged;4274.N
+Vienna Life UFK Schroder Frontier Markets Equity USD;4275.N
+Vienna Life UFK Schroder Global Demographic Opportunities USD;4277.N
+Vienna Life UFK Schroder Global Dividend Maximiser USD;4279.N
+Vienna Life UFK Schroder Global Property Securities EUR Hedged;4280.N
+Vienna Life UFK Schroder Global Property Securities USD;4281.N
+Vienna Life UFK Schroder Global Smaller Companies EUR;4282.N
+Vienna Life UFK Schroder ISF Global Climate Change Equity A1 Acc USD;4285.N
+Open Life Franklin U.S. Opportunities Fund;4286.N
+Vienna Life UFK Schroder ISF US Smaller Companies A1 USD;4288.N
+Vienna Life UFK Schroder US Small & Mid Cap Equity USD;4289.N
+Vienna Life UFK Skarbiec Małych i Średnich Spółek;4291.N
+Vienna Life UFK Skarbiec Spółek Wzrostowych;4292.N
+Vienna Life UFK Skarbiec Akcja;4295.N
+Vienna Life UFK Templeton Asian Growth Fund EUR Hedged;4305.N
+Vienna Life UFK Templeton Asian Growth Fund EUR;4306.N
+Vienna Life UFK Templeton Asian Growth Fund PLN Hedged;4307.N
+Vienna Life UFK Templeton Asian Growth Fund USD;4308.N
+Vienna Life UFK Templeton Asian Smaller Companies Fund USD;4309.N
+Open Life Franklin India Fund;4310.N
+Vienna Life UFK Templeton BRIC Fund USD;4311.N
+Vienna Life UFK Templeton China Fund USD;4312.N
+Vienna Life UFK Templeton Emerging Markets Fund EUR;4315.N
+Vienna Life UFK Templeton Euroland Fund EUR;4316.N
+Vienna Life UFK Templeton Global Fund USD;4319.N
+Vienna Life UFK Templeton Global Smaller Companies Fund USD;4322.N
+Vienna Life UFK Templeton Global Total Return Fund EUR Hedged;4324.N
+Vienna Life UFK Templeton Latin America Fund PLN Hedged;4327.N
+Vienna Life UFK Templeton Latin America Fund USD;4328.N
+Vienna Life UFK Generali Akcje Małych i Średnich Spółek;4329.N
+Vienna Life UFK Generali Akcje Nowa Europa;4330.N
+Vienna Life UFK Generali Akcje Wzrostu;4331.N
+Vienna Life UFK Generali Korona Akcje;4333.N
+Open Life ESALIENS Akcji;4345.N
+Open Life Santander Akcji Tureckich;4348.N
+Open Life Santander Akcji Polskich;4349.N
+Open Life AXA Akcji Big Players;4363.N
+Allianz Prosperita Strategia Aktywna;4372.N
+Allianz Prosperita Strategia Azjatycka;4373.N
+Open Life AXA Akcji;4377.N
+Allianz UFK Allianz Akcji Małych i Średnich Spółek;4381.N
+Allianz UFK Allianz Selektywny;4385.N
+PKO UFK Generali Akcje Nowa Europa pro;4388.N
+PKO UFK Generali Akcje Małych i Średnich Spółek pro;4389.N
+Allianz UFK ESALIENS Akcji;4397.N
+Allianz UFK Franklin European Dividend Fund PLN Hedged;4401.N
+Allianz UFK Franklin Natural Resources Fund PLN Hedged;4403.N
+Allianz UFK Franklin U.S. Opportunities Fund N Acc PLN;4404.N
+Allianz UFK Investor Akcji;4405.N
+Allianz UFK Investor Akcji Dużych Spółek;4406.N
+Allianz UFK Investor Akcji Spółek Wzrostowych;4407.N
+Allianz UFK Investor Quality;4408.N
+Allianz UFK Investor BRIC;4409.N
+Allianz UFK Investor Gold Otwarty;4410.N
+Allianz UFK Investor Indie i Chiny;4412.N
+Allianz UFK Investor Top 25 Małych Spółek;4415.N
+Allianz UFK Investor Turcja;4416.N
+Allianz UFK Ipopema Agresywny;4419.N
+Allianz UFK Ipopema Makro Alokacji;4420.N
+Allianz UFK NN Akcji;4424.N
+Allianz UFK NN Akcji Środkowoeuropejskich;4425.N
+Allianz UFK NN Dynamiczny Globalnej Alokacji;4427.N
+Allianz UFK NN L Europejski Spółek Dywidendowych;4428.N
+Allianz UFK NN L Globalny Spółek Dywidendowych;4430.N
+Allianz UFK NN Japonia;4431.N
+Allianz UFK NN Nowej Azji;4432.N
+Allianz UFK NN L Spółek Dywidendowych USA;4435.N
+Allianz UFK NN Średnich i Małych Spółek;4438.N
+Allianz UFK Noble Funds Akcji;4439.N
+Allianz UFK Noble Funds Akcji Małych i Średnich Spółek;4440.N
+Allianz UFK Noble Funds Stabilnego Wzrostu Plus;4443.N
+PKO UFK Templeton Azjatycki Wzrostu pro;4451.N
+PKO UFK Templeton Akcji Ameryki Łacińskiej pro;4452.N
+Allianz UFK Pekao Akcji Aktywna Selekcja;4457.N
+Allianz UFK Pekao Akcji Amerykańskich;4458.N
+Allianz UFK Pekao Akcji Europejskich;4459.N
+Allianz UFK Pekao Akcji Małych i Średnich Spółek Rynków Rozwiniętych;4460.N
+Allianz UFK Pekao Akcji Rynków Wschodzących;4462.N
+Allianz UFK Pekao Dynamicznych Spółek;4464.N
+Allianz UFK Pekao Strategii Globalnej;4472.N
+Allianz UFK Pekao Surowców i Energii;4473.N
+Allianz UFK Quercus Agresywny;4475.N
+Allianz UFK Quercus Gold lev;4476.N
+Allianz UFK Quercus Rosja;4478.N
+Allianz UFK Quercus Turcja;4481.N
+Allianz UFK Quercus lev;4482.N
+Allianz UFK Quercus short;4483.N
+Allianz UFK Schroder Asian Opportunities PLN Hedged;4485.N
+Allianz UFK Schroder EURO Equity PLN Hedged;4486.N
+Allianz UFK Schroder Frontier Markets Equity PLN Hedged;4488.N
+Allianz UFK Skarbiec Globalny Małych i Średnich Spółek;4491.N
+PKO UFK Schroder Akcji Globalnych pro;4496.N
+Allianz UFK Skarbiec Top Brands;4497.N
+Allianz UFK Skarbiec Akcja;4498.N
+Allianz UFK Skarbiec Market Neutral;4501.N
+Allianz UFK Skarbiec Małych i Średnich Spółek;4502.N
+Allianz UFK Skarbiec Spółek Wzrostowych;4503.N
+Allianz UFK Templeton Asian Growth Fund PLN;4504.N
+Allianz UFK Templeton Latin America Fund PLN;4508.N
+Allianz UFK Generali Złota;4509.N
+Allianz UFK Generali Globalnych Akcji Wzrostu;4510.N
+Allianz UFK Generali Akcje Małych i Średnich Spółek;4511.N
+Allianz UFK Generali Akcje Nowa Europa;4512.N
+Allianz UFK Generali Akcje Wzrostu;4513.N
+Allianz UFK Generali Korona Akcje;4514.N
+PKO UFK Rockbridge Akcji pro;4528.N
+PKO UFK Quercus short pro;4529.N
+PKO UFK Quercus Turcja pro;4531.N
+PKO UFK Quercus Agresywny pro;4533.N
+PKO UFK PKO Akcji Plus pro;4535.N
+PKO UFK PKO Akcji Małych i Średnich Spółek pro;4536.N
+HDI Gerling Investor Akcji;4539.N
+HDI Gerling Investor Akcji Dużych Spółek;4540.N
+HDI Gerling Generali Korona Akcje;4541.N
+UNIQA Akcji;4544.N
+UNIQA Akcji IKZE;4545.N
+UNIQA Akcji Małych i Średnich Spółek;4546.N
+UNIQA Akcji Spółek Dywidendowych;4547.N
+PKO UFK Noble Fund Małych i Średnich Spółek pro;4550.N
+PKO UFK Noble Fund Akcji pro;4551.N
+PKO UFK NN L Globalny Spółek Dywidendowych pro;4552.N
+PKO UFK Investor Turcja pro;4553.N
+UNIQA Santander Akcji;4555.N
+UNIQA Santander Akcji Tureckich;4556.N
+UNIQA BlackRock GF Global Equity Income;4560.N
+UNIQA BlackRock GF Japan Flexible Equity;4561.N
+UNIQA ESALIENS Akcji;4564.N
+PKO UFK Investor Indie i Chiny pro;4567.N
+UNIQA Equity Central Europe;4568.N
+PKO UFK Franklin Potencjału Stanów Zjednoczonych pro;4570.N
+UNIQA Fidelity America;4573.N
+UNIQA Franklin U.S. Opportunities PLN;4576.N
+PKO UFK Franklin Akcji Indyjskich pro;4577.N
+UNIQA Investor Akcji;4578.N
+UNIQA Investor Akcji Dużych Spółek;4579.N
+UNIQA Investor Gold Otwarty;4580.N
+UNIQA Investor TOP 25 Małych Spółek;4583.N
+UNIQA Investor Top 50 Małych i Średnich Spółek Plus;4584.N
+UNIQA Investor Turcja;4585.N
+UNIQA Ipopema Agresywny;4588.N
+UNIQA Ipopema Akcji;4589.N
+UNIQA Ipopema Makro Alokacji;4590.N
+UNIQA Ipopema Małych i Średnich Spółek;4591.N
+PKO UFK ESALIENS Akcji pro;4597.N
+PKO UFK BGF Akcji Globalnych Spółek Wydobywczych pro;4598.N
+PKO UFK BGF Akcji Globalnych Spółek Energetycznych pro;4599.N
+PKO UFK Allianz Selektywny pro;4601.N
+UNIQA ING L Europejskich Spółek Dywidendowych;4605.N
+UNIQA NN L Globalny Spółek Dywidendowych;4607.N
+UNIQA NN L Japonia;4608.N
+UNIQA ING L Spółek Dywidendowych USA;4609.N
+PKO UFK Allianz Akcji Małych i Średnich Spółek pro;4610.N
+UNIQA Noble Fund Akcji;4611.N
+UNIQA Noble Fund Akcji Małych i Średnich Spółek;4612.N
+UNIQA Noble Fund Timingowy;4616.N
+UNIQA PKO Akcji Plus;4627.N
+UNIQA Pekao Akcji Amerykańskich;4633.N
+UNIQA Quercus Agresywny;4642.N
+UNIQA Quercus lev;4644.N
+UNIQA Schroder Greater China USD;4646.N
+UNIQA Selective Equity;4648.N
+UNIQA Selektywny Akcji Polskich;4650.N
+UNIQA Skarbiec Akcja;4651.N
+UNIQA Skarbiec Spółek Wzrostowych;4656.N
+UNIQA Templeton Asian Growth PLN;4663.N
+UNIQA Templeton Frontier Markets;4665.N
+UNIQA Templeton Latin America;4668.N
+MetLife UFK Generali Akcje Wzrostu;4671.N
+UNIQA Generali Globalnych Akcji Wzrostu;4673.N
+UNIQA Generali Akcje Małych i Średnich Spółek;4674.N
+UNIQA Generali Akcje Wzrostu;4675.N
+UNIQA Generali Korona Akcje;4676.N
+MetLife UFK Skarbiec Spółek Wzrostowych;4682.N
+MetLife UFK Skarbiec Małych i Średnich Spółek;4683.N
+MetLife UFK Skarbiec Akcja;4686.N
+MetLife UFK Schroder ISF Frontier Markets Equity;4687.N
+MetLife UFK Schroder ISF EURO Equity;4688.N
+MetLife UFK Schroder ISF Asian Opportunities;4689.N
+MetLife UFK Quercus Agresywny;4692.N
+MetLife UFK Noble Fund Stabilnego Wzrostu Plus;4698.N
+MetLife UFK Noble Fund Akcji Małych i Średnich Spółek;4700.N
+MetLife UFK Noble Fund Akcji;4702.N
+MetLife UFK NN L Japonia;4704.N
+MetLife UFK NN L Globalny Spółek Dywidendowych;4705.N
+MetLife UFK NN L Europejski Spółek Dywidendowych;4707.N
+Compensa UFK Santander Akcji;4725.N
+Compensa UFK ESALIENS Akcji;4729.N
+MetLife UFK Ipopema Makro Alokacji;4739.N
+Compensa UFK Investor Akcji Dużych Spółek;4740.N
+Compensa UFK Investor Top 50 Małych i Średnich Spółek Plus;4741.N
+MetLife UFK Ipopema Subfundusz Akcji;4745.N
+Compensa UFK Pekao FG SFIO Subfundusz Surowców i Energii;4748.N
+MetLife UFK Investor Top 25 Małych Spółek;4750.N
+Compensa UFK Skarbiec Akcja;4751.N
+Compensa UFK Generali Korona Akcje;4753.N
+MetLife UFK Investor Akcji;4756.N
+Credit Agricole UFK Allianz Selektywny;4759.N
+MetLife UFK Franklin U.S. Opportunities Fund;4760.N
+Credit Agricole UFK Credit Agricole Akcyjny;4761.N
+Credit Agricole UFK ESALIENS Akcji;4765.N
+Credit Agricole UFK Investor Akcji;4770.N
+Credit Agricole UFK Investor Top 25 Małych Spółek;4771.N
+Credit Agricole UFK NN Akcji;4774.N
+Credit Agricole UFK NN Akcji Środkowoeuropejskich;4775.N
+Credit Agricole UFK Noble Funds Akcji;4778.N
+Credit Agricole UFK Noble Funds Akcji Małych i Średnich Spółek;4779.N
+Credit Agricole UFK Skarbiec Akcja;4785.N
+Credit Agricole UFK Skarbiec Akcji Nowej Europy;4786.N
+Credit Agricole UFK Skarbiec Top Brands;4791.N
+Credit Agricole UFK Generali Akcje Wzrostu;4793.N
+Credit Agricole UFK Generali Korona Akcje;4794.N
+Allianz IKE Dynamiczny;4800.N
+Allianz PPE Akcji;4802.N
+Allianz UFK Akcji;4807.N
+Allianz UFK Dynamiczny;4817.N
+MetLife UFK Franklin Natural Resources Fund;4818.N
+Allianz UFK Investor Gold Otwarty;4822.N
+Allianz UFK Investor Turcja;4823.N
+Allianz UFK NN L Globalny Spółek Dywidendowych;4826.N
+Allianz UFK NN L Nowej Azji;4827.N
+Allianz UFK Noble Fund Akcji;4828.N
+Allianz UFK Noble Fund Akcji Małych i Średnich Spółek;4829.N
+Allianz UFK Noble Fund Timingowy;4830.N
+Allianz UFK Quercus Agresywny;4836.N
+Allianz UFK Quercus Rosja;4837.N
+Allianz UFK Quercus Turcja;4838.N
+Allianz UFK Skarbiec Akcja;4839.N
+Allianz UFK Skarbiec Akcji Nowej Europy;4840.N
+Allianz UFK Skarbiec Globalny Małych i Średnich Spółek;4842.N
+Allianz UFK Skarbiec Rynków Surowcowych;4844.N
+Allianz UFK Skarbiec Spółek Wzrostowych;4845.N
+Allianz UFK Spółek Dywidendowych;4846.N
+Allianz UFK Generali Akcje Wzrostu;4849.N
+Allianz UFK Generali Korona Akcje;4850.N
+MetLife UFK BlackRock Latin American Fund;4853.N
+Europa UFK AXA Akcji;4971.N
+Europa UFK AXA Akcji Big Players;4972.N
+Europa UFK AXA Equity Active Asset Allocation AAA;4974.N
+Europa UFK Allianz Akcji Małych i Średnich Spółek;4982.N
+Europa UFK Allianz Selektywny;4987.N
+UFK NN L Invest US Enhanced Core Concentrated;4990.N
+UFK NN L Global Sustainable Equity;4991.N
+UFK NN L Invest Japan;4992.N
+Europa UFK Santander Akcji A;4993.N
+Europa UFK Santander Prestiż Akcji Polskich;4994.N
+UFK NN L Invest Europe High Dividend;4995.N
+Europa UFK BlackRock GF Global Equity Income A2 PLN Hedged;5006.N
+Europa UFK BlackRock GF World Agriculture Hedged A2 PLN;5007.N
+Europa UFK ESALIENS Akcji;5009.N
+Europa UFK Franklin India Fund N Acc PLN;5018.N
+Europa UFK Franklin Natural Resources Fund N Acc PLN H1;5019.N
+Europa UFK Franklin U.S. Opportunities Fund N Acc PLN H1;5021.N
+Europa UFK Investor Akcji;5022.N
+Europa UFK Investor Akcji Dużych Spółek;5023.N
+Europa UFK Investor Gold Otwarty;5024.N
+Europa UFK Investor Niemcy;5025.N
+Europa UFK Investor Top 25 Małych Spółek;5027.N
+Europa UFK Investor Turcja;5028.N
+Europa UFK Ipopema Akcji B;5031.N
+Europa UFK Ipopema Makro Alokacji B;5032.N
+Europa UFK Ipopema Małych i Średnich Spółek B;5033.N
+NN UFK Generali Korona Akcje;5043.N
+Europa UFK NN Akcji;5051.N
+Europa UFK NN L Globalny Spółek Dywidendowych;5053.N
+Europa UFK NN L Japonia;5054.N
+Europa UFK Noble Funds Akcji;5058.N
+Europa UFK Noble Funds Timingowy;5061.N
+Europa UFK PKO Akcji Małych i Średnich Spółek;5062.N
+Europa UFK PKO Dóbr Luksusowych Globalny;5063.N
+Europa UFK PKO Technologii i Innowacji Globalny;5067.N
+Europa UFK Quercus Gold;5074.N
+Europa UFK Quercus Turcja;5076.N
+Europa UFK Schroder Asian Opportunities PLN Hedged;5079.N
+Europa UFK Schroder EURO Equity PLN Hedged;5080.N
+Europa UFK Schroder Frontier Markets Equity PLN Hedged;5082.N
+Europa UFK Skarbiec Akcji Nowej Europy;5089.N
+Europa UFK Skarbiec Market Neutral;5091.N
+Europa UFK Skarbiec Spółek Wzrostowych;5093.N
+Europa UFK Templeton Asian Growth Fund N Acc PLN;5096.N
+Europa UFK Templeton Latin America Fund N Acc PLN;5100.N
+Europa UFK Generali Akcje Małych i Średnich Spółek;5101.N
+Europa UFK Generali Akcje Nowa Europa;5102.N
+Europa UFK Generali Akcje Wzrostu;5103.N
+Europa UFK Generali Korona Akcje;5104.N
+UFK Europa Allianz Akcji Globalnych;5115.N
+NN UFK Noble Fund Akcji;5119.N
+NN UFK Globalny Spółek Dywidendowych BIS;5128.N
+NN UFK ESALIENS Akcji;5132.N
+NN UFK Dynamiczny;5138.N
+NN UFK Akcji Środkowoeuropejskich;5141.N
+NN UFK Akcji;5146.N
+Generali IKE Agresywny;5147.N
+Generali UFK Agresywny;5150.N
+Generali UFK Agresywny Plus;5151.N
+NN UFK L Spółek Dywidendowych USA;5152.N
+NN UFK L Nowej Azji;5153.N
+NN UFK L Japonia;5154.N
+Generali UFK Santander Akcji;5155.N
+NN UFK L Globalny Spółek Dywidendowych;5166.N
+Generali UFK ESALIENS Akcji;5168.N
+Generali UFK Franklin Natural Resources Fund PLN Hedged;5176.N
+NN UFK L Europejski Spółek Dywidendowych;5178.N
+Generali UFK Grupowy Agresywny A;5181.N
+Generali UFK Investor Akcji Dużych Spółek;5187.N
+Generali UFK Investor Quality;5188.N
+Generali UFK Investor Gold Otwarty;5189.N
+Generali UFK Ipopema Akcji;5192.N
+NN UFK L Globalny Odpowiedzialnego Inwestowania;5198.N
+Generali UFK Millennium Dynamicznych Spółek;5207.N
+Generali UFK ING Akcji;5208.N
+Generali UFK ING Ameryki Łacińskiej;5209.N
+Generali UFK ING Europejski Spółek Dywidendowych;5210.N
+Generali UFK ING Globalny Spółek Dywidendowych;5212.N
+Generali UFK ING Japonia;5213.N
+Generali UFK Noble Akcji;5215.N
+Generali UFK Noble Akcji Małych i Średnich Spółek;5216.N
+Generali UFK Noble Stabilnego Wzrostu Plus;5218.N
+Generali UFK Porftel db Dynamiczny;5225.N
+Generali UFK Portfel Dynamiczny;5232.N
+Generali UFK Portfel Polski Akcyjny;5235.N
+Generali UFK Portfel Zagraniczny Cztery strony świata Akcyjny;5239.N
+Generali UFK Quercus Agresywny;5243.N
+Generali UFK Quercus Gold;5244.N
+Generali UFK Quercus short;5246.N
+Generali UFK Rockbridge Akcji;5247.N
+Generali UFK Rockbridge Akcji Dynamicznych Spółek;5248.N
+Generali UFK Skarbiec Akcja;5255.N
+Generali UFK Skarbiec Spółek Wzrostowych;5257.N
+Generali UFK Specjalistyczny;5258.N
+Generali UFK Templeton Asian Growth Fund PLN Hedged;5259.N
+Generali UFK Templeton Frontier Markets Fund PLN Hedged;5261.N
+Generali UFK Generali Globalnych Akcji Wzrostu;5265.N
+Generali UFK Generali Korona Akcji;5266.N
+Generali mBank Agresywny;5280.N
+HDI Gerling Investor Gold Otwarty;5283.N
+HDI Gerling ING Akcji;5284.N
+Hestia UFK Międzynarodowy;5291.N
+Hestia UFK Agresywnego Inwestowania;5294.N
+Hestia IKE Agresywnego Inwestowania;5295.N
+Hestia PPE Agresywnego Inwestowania;5296.N
+Hestia UFK Akcyjny ESALIENS;5297.N
+Hestia UFK Dynamiczny ESALIENS;5298.N
+PKO UFK Santander Akcji pro;5304.N
+PKO UFK NN Akcji pro;5311.N
+PKO UFK Generali Akcje pro;5315.N
+Superfund Spółek Złota i Srebra;1054.N
+PZU FIO Sejf+;1126.N
+Allianz UFK PZU FIO Sejf+;1191.N
+Vienna Life UFK PZU Sejf+;1197.N
+Goldman Sachs Perspektywa 2050 SFIO;1365.N
+Goldman Sachs Perspektywa 2055 SFIO;1366.N
+Amundi Parasolowy FIO Subfundusz Globalnych Perspektyw Umiarkowany;1462.N
+Generali CEE Dynamic Balanced Fund A EUR;1607.N
+Generali CEE Premium Balanced Fund A EUR;1608.N
+Santander Prestiż SFIO Subfundusz Alfa;1699.N
+Santander Prestiż SFIO Subfundusz Strategia Konserwatywna;1990.N
+Santander Prestiż SFIO Subfundusz Strategia Stabilna;1991.N
+;2158.N
+Franklin Income Fund N Acc USD 850;2512.N
+UNIQA Portfel Selektywny;2694.N
+Goldman Sachs SFIO Stabilny Globalnej Dywersyfikacji;2716.N
+ING Pakiet Umiarkowany SFIO;2725.N
+Goldman Sachs Spokojna Perspektywa SFIO;2726.N
+Goldman Sachs Perspektywa 2025 SFIO;2727.N
+Goldman Sachs Perspektywa 2030 SFIO;2728.N
+Goldman Sachs Perspektywa 2035 SFIO;2729.N
+Goldman Sachs Perspektywa 2040 SFIO;2730.N
+Goldman Sachs Perspektywa 2045 SFIO;2731.N
+Warta UFK Quercus Selektywny;2745.N
+UNIQA Portfel Cyklu Koniunkturalnego;2754.N
+Warta PPE Aktywny;2806.N
+Uniqa Quercus Selektywny;2829.N
+UNIQA Aktywny Portfel Funduszy;2903.N
+Vienna Life Generali Korona Zrównoważony;3042.N
+Vienna Life Rockbridge Zrównoważony;3136.N
+Vienna Life Pekao Zrównoważony;3146.N
+Rockbridge Neo Aktywnej Alokacji;3167.N
+Vienna Life Noble Funds Mieszany;3189.N
+Vienna Life NN Zrównoważony;3211.N
+Vienna Life Investor Zrównoważony;3221.N
+Vienna Life ESALIENS Strateg;3235.N
+PZU UFK Quercus Stabilny;3296.N
+PZU UFK Quercus Parasolowy SFIO Subfundusz Selektywny;3297.N
+PZU UFK NN Stabilny Globalnej Alokacji;3341.N
+Pekao Subfundusz Alternatywny Globalnego Dochodu Funduszy Globalnych SFIO;3349.N
+Pekao Subfundusz Dochodu USD Funduszy Globalnych SFIO;3350.N
+Pekao FG SFIO Subfundusz Dochodu USD;3351.N
+Pekao Subfundusz Elastycznego Inwestowania Strategie Funduszowe SFIO;3372.N
+Pekao Subfundusz Strategii Globalnej Konserwatywny Strategie Funduszowe SFIO;3375.N
+PKO SFIO Subfundusz Zabezpieczenia Emerytalnego 2020;3418.N
+PKO SFIO Subfundusz Zabezpieczenia Emerytalnego 2030;3419.N
+PKO SFIO Subfundusz Zabezpieczenia Emerytalnego 2040;3420.N
+PKO SFIO Subfundusz Zabezpieczenia Emerytalnego 2050;3421.N
+PKO SFIO Subfundusz Zabezpieczenia Emerytalnego 2060;3422.N
+QUERCUS Global Balanced;3446.N
+QUERCUS Stabilny;3447.N
+Schroder ISF Wealth Preservation A1 Acc EUR;3866.N
+Skarbiec FIO Polskich Innowacji;3892.N
+AEGON UFK JPMorgan Global Capital Preservation USD D Acc USD;4183.N
+Vienna Life UFK Quercus Selektywny;4254.N
+Vienna Life UFK Schroder Global Diversified Growth EUR;4278.N
+Allianz UFK NN Stabilny Globalnej Alokacji;4437.N
+Allianz UFK Pekao Alternatywny Globalnego Dochodu;4463.N
+Allianz UFK Quercus Selektywny;4479.N
+Allianz UFK Quercus Stabilny;4480.N
+Allianz UFK Skarbiec Market Opportunities;4493.N
+UNIQA Quercus Selektywny;4643.N
+UNIQA Skarbiec Ochrony Kapitału;4655.N
+MetLife UFK Quercus Selektywny;4690.N
+MetLife UFK NN L Stabilny Globalnej Alokacji;4703.N
+Credit Agricole UFK Skarbiec Market Opportunities;4789.N
+NN UFK Zrównoważony BIS;5016.N
+NN UFK Portfel Inwestycyjny Wzrostowy;5046.N
+Europa UFK MetLife Aktywnej Alokacji;5048.N
+NN UFK Perspektywa 2045;5071.N
+Europa UFK Quercus Selektywny;5075.N
+NN UFK Perspektywa 2040;5085.N
+NN UFK Perspektywa 2035;5086.N
+NN UFK Perspektywa 2030;5097.N
+NN UFK Perspektywa 2025;5111.N
+NN UFK Perspektywa 2020;5113.N
+Generali UFK Quercus Selektywny;5245.N
+BPS FIO Subfundusz BPS Konserwatywny;1022.N
+BGŻ BNP Paribas FIO Konserwatywnego Oszczędzania;1037.N
+Alior Konserwatywny Obligacji Uniwersalny;1046.N
+Superfund Portfelowy Spokojna Inwestycja;1064.N
+PZU Obligacji Krótkoterminowych;1130.N
+PZU UFK Strefa Zysku PZU Gotówkowy Bonusowy;1172.N
+PZU UFK Strefa Zysku PZU Gotówkowy;1173.N
+Europa UFK PZU Gotówkowy;1182.N
+Allianz FIO Subfundusz Konserwatywny;1415.N
+Allianz FIO Subfundusz Konserwatywny kategoria B;1416.N
+Allianz FIO Subfundusz Konserwatywny kategoria D;1417.N
+Amundi Parasolowy FIO Subfundusz Ostrożny Inwestor;1464.N
+UNIQA FIO Subfundusz UNIQA Ostrożnego Inwestowania;1478.N
+UNIQA FIO Subfundusz UNIQA Ostrożnego Inwestowania;1480.N
+UNIQA FIO Subfundusz UNIQA Ostrożnego Inwestowania;1481.N
+Rockbridge FIO Parasolowy Subfundusz Dłużny;1640.N
+Ipopema SFIO Subfundusz Konserwatywny C;1663.N
+Santander Dłużny Krótkoterminowy A;1665.N
+Santander Dłużny Krótkoterminowy S;1666.N
+Santander Dłużny Krótkoterminowy T;1667.N
+Santander Prestiż SFIO Subfundusz Dłużny Krótkoterminowy;1694.N
+BlackRock Euro Reserve A2 EUR;1794.N
+BlackRock US Dollar Reserve A2 GBP Hedged;2019.N
+BlackRock US Dollar Reserve A2 USD;2020.N
+BlackRock US Dollar Reserve E2 GBP Hedged;2021.N
+BlackRock US Dollar Reserve E2 USD;2022.N
+Credit Agricole FIO Subfundusz Dłużny Krótkoterminowy;2161.N
+Warta UFK Generali Korona Dochodowy;2252.N
+Warta UFK Skarbiec Kasa Pieniężny;2282.N
+Warta UFK Plan Oszczędnościowy;2426.N
+Warta UFK Pekao Pieniężny;2444.N
+Warta UFK ESALIENS Pieniężny;2575.N
+Warta UFK Santander Ochrony Kapitału;2615.N
+Warta UFK Generali Korona Dochodowy;2630.N
+Warta UFK Skarbiec Kasa;2647.N
+Generali CEE Premium Conservative Fund A EUR;2702.N
+Generali CEE Premium Conservative Fund A PLN;2703.N
+Goldman Sachs SFIO Konserwatywny Plus;2705.N
+Goldman Sachs Parasol FIO Konserwatywny;2720.N
+Warta UFK Quercus Ochrony Kapitału;2746.N
+Warta UFK Pekao Pieniężny;2750.N
+Warta UFK ING Gotówkowy;2769.N
+Warta UFK ESALIENS Pieniężny;2790.N
+Warta UFK Santander Ochrony Kapitału;2796.N
+Warta UFK Allianz Pieniężny;2799.N
+Uniqa Generali Oszczędnościowy;2809.N
+Uniqa Generali Korona Dochodowy;2811.N
+Uniqa MetLife Pieniężny;2836.N
+Investor Oszczędnościowy;2849.N
+Investor Obligacji Skarbowych Krótkoterminowy;2860.N
+Ipopema SFIO Subfundusz Konserwatywny A;2877.N
+Ipopema SFIO Subfundusz Konserwatywny B;2878.N
+Pocztowy SFIO Subfundusz Konserwatywny;2890.N
+Uniqa ESALIENS Pieniężny;2905.N
+Uniqa Allianz Pieniężny;2985.N
+Vienna Life Generali Korona Dochodowy;3043.N
+Vienna Life Skarbiec Kasa;3117.N
+Vienna Life Pekao Pieniężny;3147.N
+ESA Parasol FIO Subfundusz Konserwatywny;3154.N
+Rockbridge Neo Konserwatywny;3169.N
+Vienna Life Noble Funds Pieniężny;3184.N
+Rockbridge Neo Konserwatywny Plus;3192.N
+Millennium FIO Subfundusz Depozytowy;3201.N
+Vienna Life NN Gotówkowy;3213.N
+Vienna Life ESALIENS Pieniężny;3236.N
+PZU UFK Strefa Zysku Generali Korona Dochodowy;3263.N
+PZU UFK Quercus Ochrony Kapitału;3299.N
+Noble Funds FIO Subfundusz Konserwatywny;3311.N
+Pekao Subfundusz Gotówkowy Funduszy Globalnych SFIO;3354.N
+Pekao Subfundusz Pekao Pieniężny FIO;3366.N
+Pekao Subfundusz Pekao Pieniężny Plus FIO;3367.N
+PKO Obligacji Skarbowych;3410.N
+PZU UFK Millennium FIO Subfundusz Depozytowy;3435.N
+QUERCUS Ochrony Kapitału;3444.N
+PZU UFK Investor Oszczędnościowy;3482.N
+PZU UFK Strefa Zysku ESALIENS Pieniężny;3886.N
+Skarbiec Krótkoterminowy Uniwersalny;3887.N
+Skarbiec Krótkoterminowy Uniwersalny B;3888.N
+Generali Korona Dochodowy;3961.N
+Generali Oszczędnościowy;3963.N
+SGB Bankowy;3967.N
+Generali Aktywny Dochodowy;3972.N
+Generali Euro;3973.N
+PZU UFK Strefa Zysku Santander Ochrony Kapitału;3983.N
+Open Life Generali Korona Dochodowy;4001.N
+Vienna Life UFK Allianz Pieniężny;4036.N
+Vienna Life UFK Santander Gotówkowy;4041.N
+Vienna Life UFK Santander Ochrony Kapitału;4043.N
+Open Life PKO Skarbowy;4140.N
+Open Life Noble Fund Pieniężny;4160.N
+
+
+
+
+
+
+
